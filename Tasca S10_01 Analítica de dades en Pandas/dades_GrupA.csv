@@ -1,0 +1,491 @@
+Unnamed: 0,Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,No Fills,Grup Professional,Nom_Cognom,Nascuda_Espanya,Data de naixament,Edat
+1,Clara,Sánchez Martínez,Espanya,Barcelona,18,3,1996,Dona,1315.65,Si,,Grup A,Clara Sánchez Martínez,Si,1996-03-18,29
+2,Fatima,Fassi,Marroc,Rabat,6,11,2005,Altres,1513.05,Si,,Grup A,Fatima Fassi,No,2005-11-06,20
+4,Toni,Sánchez García,Espanya,Barcelona,9,8,1999,Home,1095.15,No,1.0,Grup A,Toni Sánchez García,Si,1999-08-09,26
+6,Carla,García,Espanya,València,24,12,1957,Dona,989.1,No,1.0,Grup A,Carla García,Si,1957-12-24,68
+7,Marco,Rossi,Itàlia,Torí,3,11,2002,Altres,1568.7,No,1.0,Grup A,Marco Rossi,No,2002-11-03,23
+8,Alessia,Rossi,Itàlia,Milà,6,12,1989,Dona,1434.3,No,1.0,Grup A,Alessia Rossi,No,1989-12-06,36
+9,Toni,Martínez,Espanya,Barcelona,16,5,1964,Home,935.5500000000001,No,1.0,Grup A,Toni Martínez,Si,1964-05-16,61
+10,Oriol,Sánchez,Espanya,Barcelona,27,7,1965,Home,1312.5,No,1.0,Grup A,Oriol Sánchez,Si,1965-07-27,60
+12,Jean,Dubois,França,Marsella,16,12,1964,Home,1672.65,Si,,Grup A,Jean Dubois,No,1964-12-16,61
+14,Eva,Castells,Espanya,Sevilla,3,5,1968,,1309.3500000000001,Si,,Grup A,Eva Castells,Si,1968-05-03,57
+16,Camila,Hernández Ramírez,Mèxic,Guadalajara,17,12,1996,Dona,1228.5,Si,,Grup A,Camila Hernández Ramírez,No,1996-12-17,29
+17,Núria,Castells,Espanya,Barcelona,2,7,2005,Dona,1411.2,Si,,Grup A,Núria Castells,Si,2005-07-02,20
+21,Mia,Schneider Fischer,Alemanya,Berlín,22,10,1976,Altres,998.5500000000001,No,1.0,Grup A,Mia Schneider Fischer,No,1976-10-22,49
+27,Eva,Castells,Espanya,Madrid,1,12,1965,Dona,922.95,No,1.0,Grup A,Eva Castells,Si,1965-12-01,60
+28,Oriol,López Martínez,Espanya,Barcelona,25,6,1952,Home,1069.95,Si,,Grup A,Oriol López Martínez,Si,1952-06-25,73
+30,Núria,Ferrer Romero,Espanya,València,6,2,2003,,1318.8,No,1.0,Grup A,Núria Ferrer Romero,Si,2003-02-06,23
+33,Matías,Gómez Álvarez,Argentina,Buenos Aires,4,12,1955,Home,1378.65,No,1.0,Grup A,Matías Gómez Álvarez,No,1955-12-04,70
+34,Jordi,Sánchez,Espanya,Bilbao,16,8,1962,Home,779.1,No,1.0,Grup A,Jordi Sánchez,Si,1962-08-16,63
+36,Jordi,Romero,Espanya,Barcelona,27,8,1968,Home,848.4000000000001,No,1.0,Grup A,Jordi Romero,Si,1968-08-27,57
+38,Carla,García,Espanya,Sevilla,17,5,1952,Dona,1011.1500000000001,Si,,Grup A,Carla García,Si,1952-05-17,73
+40,Toni,López Sánchez,Espanya,Barcelona,25,2,1975,Home,1039.5,No,1.0,Grup A,Toni López Sánchez,Si,1975-02-25,50
+41,Anna,Martínez Martínez,Espanya,Bilbao,26,9,1972,Dona,819.0,No,1.0,Grup A,Anna Martínez Martínez,Si,1972-09-26,53
+43,Toni,Martínez,Espanya,Sevilla,24,7,1982,Home,1590.75,Si,,Grup A,Toni Martínez,Si,1982-07-24,43
+49,Toni,Sánchez García,Espanya,Bilbao,28,2,2000,Home,1450.05,No,1.0,Grup A,Toni Sánchez García,Si,2000-02-28,25
+50,Marta,López,Espanya,Sevilla,6,6,1954,Dona,1558.2,No,1.0,Grup A,Marta López,Si,1954-06-06,71
+51,Joan,López,Espanya,Madrid,5,3,1957,Home,1015.35,No,1.0,Grup A,Joan López,Si,1957-03-05,68
+52,Eva,Ferrer,Espanya,Madrid,27,1,1974,Dona,1051.05,No,1.0,Grup A,Eva Ferrer,Si,1974-01-27,52
+53,Joan,López,Espanya,València,1,2,1952,Home,1577.1000000000001,No,1.0,Grup A,Joan López,Si,1952-02-01,73
+59,Oriol,García,Espanya,València,12,6,2002,Home,1352.4,Si,,Grup A,Oriol García,Si,2002-06-12,23
+61,Jordi,Sánchez,Espanya,València,19,6,1984,Home,1305.15,Si,,Grup A,Jordi Sánchez,Si,1984-06-19,41
+65,Miguel,González,Mèxic,Ciutat de Mèxic,22,3,2002,Home,1607.55,No,1.0,Grup A,Miguel González,No,2002-03-22,23
+67,Núria,Martínez,Espanya,Madrid,19,3,1986,Dona,1475.25,No,1.0,Grup A,Núria Martínez,Si,1986-03-19,39
+69,Valentina,Torres Torres,Colòmbia,Medellín,24,7,1951,,1314.6000000000001,No,1.0,Grup A,Valentina Torres Torres,No,1951-07-24,74
+72,Joan,Castells,Espanya,Barcelona,10,12,1975,Home,1750.3500000000001,Si,,Grup A,Joan Castells,Si,1975-12-10,50
+73,Anna,Martínez Martínez,Espanya,Sevilla,10,4,1985,Dona,1399.65,No,1.0,Grup A,Anna Martínez Martínez,Si,1985-04-10,40
+75,Michel,Moreau,França,Lió,2,5,1970,Home,850.5,No,1.0,Grup A,Michel Moreau,No,1970-05-02,55
+77,Anna,Ferrer Sánchez,Espanya,Bilbao,21,10,1982,Dona,1389.15,No,1.0,Grup A,Anna Ferrer Sánchez,Si,1982-10-21,43
+79,Clara,García,Espanya,Sevilla,10,3,1955,Dona,849.45,No,1.0,Grup A,Clara García,Si,1955-03-10,70
+81,Valentina,Gutiérrez Castro,Colòmbia,Bogotà,2,1,2001,Altres,1117.2,No,1.0,Grup A,Valentina Gutiérrez Castro,No,2001-01-02,25
+83,Arnau,Sánchez López,Espanya,Barcelona,28,6,1960,Home,1171.8,No,1.0,Grup A,Arnau Sánchez López,Si,1960-06-28,65
+84,Daniela,Castro Castro,Colòmbia,Medellín,25,12,1980,Dona,1225.3500000000001,No,1.0,Grup A,Daniela Castro Castro,No,1980-12-25,45
+85,Clara,Sánchez,Espanya,Bilbao,1,10,1965,Dona,857.85,Si,,Grup A,Clara Sánchez,Si,1965-10-01,60
+89,Youssef,Bennani,Marroc,Casablanca,20,9,1957,Home,819.0,Si,,Grup A,Youssef Bennani,No,1957-09-20,68
+90,Eva,Martínez,Espanya,Barcelona,11,9,1974,Dona,822.1500000000001,No,1.0,Grup A,Eva Martínez,Si,1974-09-11,51
+91,Sophie,Taylor,Regne Unit,Londres,27,2,1983,Dona,1542.45,No,1.0,Grup A,Sophie Taylor,No,1983-02-27,42
+92,Mohamed,Zahraoui,Marroc,Rabat,18,11,1950,Home,1570.8,No,1.0,Grup A,Mohamed Zahraoui,No,1950-11-18,75
+93,Anna,Castells,Espanya,Bilbao,20,3,1987,Dona,1450.05,No,1.0,Grup A,Anna Castells,Si,1987-03-20,38
+96,Joan,Romero Romero,Espanya,Barcelona,21,2,1999,Home,1620.15,Si,,Grup A,Joan Romero Romero,Si,1999-02-21,26
+98,Anna,Sánchez,Espanya,Barcelona,17,7,1984,Altres,1509.9,Si,,Grup A,Anna Sánchez,Si,1984-07-17,41
+100,Tiago,Ferreira,Portugal,Porto,22,11,1993,Home,1308.3,Si,,Grup A,Tiago Ferreira,No,1993-11-22,32
+101,Eva,Romero,Espanya,València,16,4,1985,Dona,1130.8500000000001,Si,,Grup A,Eva Romero,Si,1985-04-16,40
+103,Felipe,Torres,Colòmbia,Bogotà,19,3,1970,Home,1302.0,Si,,Grup A,Felipe Torres,No,1970-03-19,55
+104,Laia,Martínez Ferrer,Espanya,Bilbao,19,10,1956,Dona,1030.05,Si,,Grup A,Laia Martínez Ferrer,Si,1956-10-19,69
+105,Marta,Sánchez,Espanya,Bilbao,1,9,1972,Dona,1211.7,No,1.0,Grup A,Marta Sánchez,Si,1972-09-01,53
+107,Toni,Romero,Espanya,València,26,11,1991,Home,1445.8500000000001,Si,,Grup A,Toni Romero,Si,1991-11-26,34
+108,Núria,Ferrer,Espanya,Barcelona,18,4,1957,,1465.8,Si,,Grup A,Núria Ferrer,Si,1957-04-18,68
+110,Marc,Ferrer Castells,Espanya,Barcelona,25,8,2002,Home,1755.6000000000001,No,1.0,Grup A,Marc Ferrer Castells,Si,2002-08-25,23
+117,Toni,Ferrer,Espanya,Madrid,19,8,1967,Home,1641.15,No,1.0,Grup A,Toni Ferrer,Si,1967-08-19,58
+118,Pau,Ferrer,Espanya,Bilbao,6,8,1964,Home,1213.8,No,1.0,Grup A,Pau Ferrer,Si,1964-08-06,61
+120,Marc,García,Espanya,Barcelona,23,7,1998,Home,1408.05,Si,,Grup A,Marc García,Si,1998-07-23,27
+122,Joan,Sánchez,Espanya,Sevilla,5,8,1988,Home,1125.6000000000001,Si,,Grup A,Joan Sánchez,Si,1988-08-05,37
+123,Clara,Castells García,Espanya,Bilbao,11,1,1964,Dona,1155.0,Si,,Grup A,Clara Castells García,Si,1964-01-11,62
+125,Oriol,Martínez,Espanya,Madrid,18,1,1994,Home,1580.25,No,1.0,Grup A,Oriol Martínez,Si,1994-01-18,32
+126,Anna,Müller,Alemanya,Munic,18,3,1956,Dona,1344.0,No,1.0,Grup A,Anna Müller,No,1956-03-18,69
+127,Núria,Castells Sánchez,Espanya,Sevilla,26,3,1975,Dona,698.25,No,1.0,Grup A,Núria Castells Sánchez,Si,1975-03-26,50
+128,Pau,Ferrer,Espanya,Sevilla,1,1,1999,Home,1614.9,No,1.0,Grup A,Pau Ferrer,Si,1999-01-01,27
+129,Tiago,Silva Pereira,Portugal,Porto,24,3,1980,Home,1502.55,No,1.0,Grup A,Tiago Silva Pereira,No,1980-03-24,45
+130,Marc,García Ferrer,Espanya,València,16,8,1998,Home,1252.65,No,1.0,Grup A,Marc García Ferrer,Si,1998-08-16,27
+132,Pau,Castells,Espanya,Sevilla,23,3,1978,Home,859.95,No,1.0,Grup A,Pau Castells,Si,1978-03-23,47
+133,Jean,Lefevre,França,Marsella,8,10,1959,Home,819.0,No,1.0,Grup A,Jean Lefevre,No,1959-10-08,66
+136,Joan,García,Espanya,Barcelona,24,12,1957,Home,1635.9,Si,,Grup A,Joan García,Si,1957-12-24,68
+140,Pau,Romero Castells,Espanya,Madrid,14,7,1996,Home,1629.6000000000001,Si,,Grup A,Pau Romero Castells,Si,1996-07-14,29
+141,Giulia,Russo Conti,Itàlia,Milà,25,2,1971,Dona,1096.2,No,1.0,Grup A,Giulia Russo Conti,No,1971-02-25,54
+142,Clara,Sánchez Castells,Espanya,València,19,3,1972,Dona,1213.8,No,1.0,Grup A,Clara Sánchez Castells,Si,1972-03-19,53
+143,Marc,García Romero,Espanya,Sevilla,2,1,1982,Home,1182.3,No,1.0,Grup A,Marc García Romero,Si,1982-01-02,44
+144,Jordi,Castells Ferrer,Espanya,Bilbao,23,2,1979,Home,1279.95,No,1.0,Grup A,Jordi Castells Ferrer,Si,1979-02-23,46
+145,Laia,Castells,Espanya,Sevilla,6,10,1992,,1544.55,No,1.0,Grup A,Laia Castells,Si,1992-10-06,33
+149,Oriol,García,Espanya,Madrid,8,3,1954,Altres,1640.1000000000001,No,1.0,Grup A,Oriol García,Si,1954-03-08,71
+150,Marc,Martínez Martínez,Espanya,Barcelona,6,4,2001,,1160.25,Si,,Grup A,Marc Martínez Martínez,Si,2001-04-06,24
+152,Eva,Ferrer,Espanya,Sevilla,24,1,1967,Dona,849.45,No,1.0,Grup A,Eva Ferrer,Si,1967-01-24,59
+153,Toni,Romero,Espanya,Barcelona,9,12,1989,Home,1741.95,Si,,Grup A,Toni Romero,Si,1989-12-09,36
+155,Jordi,Ferrer Martínez,Espanya,Sevilla,26,1,1970,Home,1537.2,Si,,Grup A,Jordi Ferrer Martínez,Si,1970-01-26,56
+158,Pau,Sánchez,Espanya,Madrid,1,12,1982,Altres,896.7,No,1.0,Grup A,Pau Sánchez,Si,1982-12-01,43
+160,Carla,Castells García,Espanya,Bilbao,7,1,1994,Dona,1358.7,No,1.0,Grup A,Carla Castells García,Si,1994-01-07,32
+162,Alessandro,Russo Ferrari,Itàlia,Roma,13,8,1965,Home,987.0,No,1.0,Grup A,Alessandro Russo Ferrari,No,1965-08-13,60
+163,Michel,Lefevre,França,Lió,14,1,1985,Home,862.0500000000001,Si,,Grup A,Michel Lefevre,No,1985-01-14,41
+164,Salma,Zahraoui El Amrani,Marroc,Rabat,28,9,1950,Dona,1198.05,No,1.0,Grup A,Salma Zahraoui El Amrani,No,1950-09-28,75
+168,Núria,Sánchez,Espanya,Sevilla,2,11,1991,Dona,1078.3500000000001,No,1.0,Grup A,Núria Sánchez,Si,1991-11-02,34
+169,Eva,Castells,Espanya,Madrid,20,11,1957,Dona,1445.8500000000001,No,1.0,Grup A,Eva Castells,Si,1957-11-20,68
+174,Marc,Martínez Ferrer,Espanya,Madrid,14,7,1971,Altres,1258.95,No,1.0,Grup A,Marc Martínez Ferrer,Si,1971-07-14,54
+182,Marta,Ferrer,Espanya,Madrid,6,10,1986,Dona,1344.0,No,1.0,Grup A,Marta Ferrer,Si,1986-10-06,39
+188,Oriol,García Castells,Espanya,Barcelona,18,6,1955,Home,1272.6000000000001,No,1.0,Grup A,Oriol García Castells,Si,1955-06-18,70
+189,Arnau,Ferrer Sánchez,Espanya,Sevilla,3,5,1994,Home,1132.95,No,1.0,Grup A,Arnau Ferrer Sánchez,Si,1994-05-03,31
+190,Louis,Moreau,França,Lió,13,2,1974,Home,1747.2,Si,,Grup A,Louis Moreau,No,1974-02-13,51
+194,Oriol,Martínez Martínez,Espanya,Sevilla,14,6,1991,,1178.1000000000001,Si,,Grup A,Oriol Martínez Martínez,Si,1991-06-14,34
+198,Carla,López,Espanya,Barcelona,18,7,1965,Dona,1216.95,Si,,Grup A,Carla López,Si,1965-07-18,60
+199,Eva,Sánchez,Espanya,Sevilla,7,8,1992,Dona,1048.95,Si,,Grup A,Eva Sánchez,Si,1992-08-07,33
+203,Felipe,Gutiérrez Torres,Colòmbia,Bogotà,25,10,2004,Home,1444.8,No,1.0,Grup A,Felipe Gutiérrez Torres,No,2004-10-25,21
+204,Gabriela,Cruz González,Mèxic,Ciutat de Mèxic,3,1,1955,Dona,1084.65,Si,,Grup A,Gabriela Cruz González,No,1955-01-03,71
+205,Carla,Ferrer López,Espanya,València,2,4,1984,Dona,1569.75,Si,,Grup A,Carla Ferrer López,Si,1984-04-02,41
+207,Carla,Ferrer López,Espanya,Sevilla,17,7,1982,Dona,856.8000000000001,No,1.0,Grup A,Carla Ferrer López,Si,1982-07-17,43
+209,Laia,Martínez,Espanya,Madrid,26,2,1979,Dona,1371.3,No,1.0,Grup A,Laia Martínez,Si,1979-02-26,46
+211,José,Hernández,Mèxic,Guadalajara,12,1,1992,Altres,1440.6000000000001,No,1.0,Grup A,José Hernández,No,1992-01-12,34
+213,Toni,López Castells,Espanya,Sevilla,18,8,1977,Home,810.6,No,1.0,Grup A,Toni López Castells,Si,1977-08-18,48
+214,Beatriz,Ferreira Ferreira,Portugal,Lisboa,17,11,1952,,1022.7,No,1.0,Grup A,Beatriz Ferreira Ferreira,No,1952-11-17,73
+215,Laia,Ferrer,Espanya,Barcelona,23,11,1972,Dona,987.0,No,1.0,Grup A,Laia Ferrer,Si,1972-11-23,53
+216,Anna,Castells García,Espanya,Barcelona,22,10,1952,Dona,732.9,No,1.0,Grup A,Anna Castells García,Si,1952-10-22,73
+217,Oriol,Ferrer Martínez,Espanya,Barcelona,26,7,1950,Home,1001.7,No,1.0,Grup A,Oriol Ferrer Martínez,Si,1950-07-26,75
+218,Jordi,Sánchez,Espanya,Barcelona,18,6,1981,Home,840.0,Si,,Grup A,Jordi Sánchez,Si,1981-06-18,44
+223,Marc,Castells Sánchez,Espanya,Madrid,24,10,1974,Home,884.1,No,1.0,Grup A,Marc Castells Sánchez,Si,1974-10-24,51
+225,Marta,Romero Sánchez,Espanya,Bilbao,19,7,1968,Dona,1087.8,No,1.0,Grup A,Marta Romero Sánchez,Si,1968-07-19,57
+226,Jordi,Sánchez Martínez,Espanya,Barcelona,6,11,1998,Home,1149.75,No,1.0,Grup A,Jordi Sánchez Martínez,Si,1998-11-06,27
+228,Youssef,Fassi Zahraoui,Marroc,Casablanca,8,3,2003,Home,1300.95,Si,,Grup A,Youssef Fassi Zahraoui,No,2003-03-08,22
+229,Pau,López,Espanya,Madrid,24,5,1977,Home,889.35,No,1.0,Grup A,Pau López,Si,1977-05-24,48
+230,Marta,Ferrer,Espanya,Barcelona,28,6,2001,Dona,1368.15,Si,,Grup A,Marta Ferrer,Si,2001-06-28,24
+231,Oliver,Jones,Regne Unit,Londres,1,6,1959,Home,956.5500000000001,Si,,Grup A,Oliver Jones,No,1959-06-01,66
+233,Carla,García Martínez,Espanya,Madrid,19,4,1981,Dona,1565.55,Si,,Grup A,Carla García Martínez,Si,1981-04-19,44
+234,Marta,García Sánchez,Espanya,València,3,2,1962,Dona,1176.0,Si,,Grup A,Marta García Sánchez,Si,1962-02-03,63
+235,Laia,Castells,Espanya,Madrid,11,4,1986,Dona,962.85,No,1.0,Grup A,Laia Castells,Si,1986-04-11,39
+236,Sophie,Moreau Dubois,França,Marsella,27,4,1956,Dona,1581.3,No,1.0,Grup A,Sophie Moreau Dubois,No,1956-04-27,69
+237,Jordi,Sánchez,Espanya,Bilbao,5,3,1952,Home,1311.45,No,1.0,Grup A,Jordi Sánchez,Si,1952-03-05,73
+239,Clara,Sánchez,Espanya,Sevilla,14,10,1970,Dona,984.9000000000001,Si,,Grup A,Clara Sánchez,Si,1970-10-14,55
+240,Tiago,Oliveira,Portugal,Porto,22,3,1989,Home,1421.7,Si,,Grup A,Tiago Oliveira,No,1989-03-22,36
+241,Chloé,Girard,França,París,5,10,1952,Dona,778.0500000000001,Si,,Grup A,Chloé Girard,No,1952-10-05,73
+246,Núria,López Romero,Espanya,Barcelona,17,9,1957,Dona,1099.3500000000001,No,1.0,Grup A,Núria López Romero,Si,1957-09-17,68
+248,Laia,Martínez,Espanya,Barcelona,22,1,1951,Dona,1247.4,Si,,Grup A,Laia Martínez,Si,1951-01-22,75
+250,Marta,García Romero,Espanya,Madrid,27,10,1984,Dona,1001.7,No,1.0,Grup A,Marta García Romero,Si,1984-10-27,41
+252,Élise,Moreau,França,París,25,7,2001,Dona,976.5,No,1.0,Grup A,Élise Moreau,No,2001-07-25,24
+253,Pau,Romero Romero,Espanya,Sevilla,12,4,1990,Home,987.0,No,1.0,Grup A,Pau Romero Romero,Si,1990-04-12,35
+257,Daniela,Torres,Colòmbia,Medellín,17,5,1970,Dona,1117.2,Si,,Grup A,Daniela Torres,No,1970-05-17,55
+261,Clara,Ferrer,Espanya,València,14,12,2002,Dona,1027.95,Si,,Grup A,Clara Ferrer,Si,2002-12-14,23
+262,Marta,Martínez,Espanya,Bilbao,22,6,1973,Dona,858.9000000000001,No,1.0,Grup A,Marta Martínez,Si,1973-06-22,52
+264,Jordi,López,Espanya,València,1,5,1996,Home,1384.95,Si,,Grup A,Jordi López,Si,1996-05-01,29
+265,Jordi,Sánchez,Espanya,Bilbao,20,4,1993,Home,1353.45,No,1.0,Grup A,Jordi Sánchez,Si,1993-04-20,32
+266,Anna,García,Espanya,Madrid,19,7,1972,,1069.95,No,1.0,Grup A,Anna García,Si,1972-07-19,53
+271,Clara,Ferrer García,Espanya,València,26,1,1957,Dona,730.8000000000001,Si,,Grup A,Clara Ferrer García,Si,1957-01-26,69
+272,Eva,García Sánchez,Espanya,Madrid,28,5,1968,Dona,995.4000000000001,No,1.0,Grup A,Eva García Sánchez,Si,1968-05-28,57
+273,Marc,Ferrer Sánchez,Espanya,Barcelona,15,7,1977,Home,1757.7,No,1.0,Grup A,Marc Ferrer Sánchez,Si,1977-07-15,48
+274,Núria,García Martínez,Espanya,Barcelona,26,5,2005,Dona,1386.0,Si,,Grup A,Núria García Martínez,Si,2005-05-26,20
+275,Pau,Ferrer García,Espanya,València,14,9,1984,Home,1332.45,Si,,Grup A,Pau Ferrer García,Si,1984-09-14,41
+276,Alessandro,Ferrari,Itàlia,Torí,13,4,1972,Altres,1400.7,Si,,Grup A,Alessandro Ferrari,No,1972-04-13,53
+277,Jordi,Romero Ferrer,Espanya,Madrid,15,4,2002,Home,1353.45,No,1.0,Grup A,Jordi Romero Ferrer,Si,2002-04-15,23
+280,Núria,Sánchez Martínez,Espanya,Madrid,4,1,1958,Dona,1522.5,No,1.0,Grup A,Núria Sánchez Martínez,Si,1958-01-04,68
+281,Lea,Müller,Alemanya,Hamburg,14,4,2003,Dona,1379.7,No,1.0,Grup A,Lea Müller,No,2003-04-14,22
+282,Jordi,Castells,Espanya,Bilbao,1,6,1953,Home,1392.3,Si,,Grup A,Jordi Castells,Si,1953-06-01,72
+283,Carla,López López,Espanya,Barcelona,7,3,1956,Dona,852.6,Si,,Grup A,Carla López López,Si,1956-03-07,69
+284,Oriol,García Ferrer,Espanya,Barcelona,9,12,2003,Home,1683.15,Si,,Grup A,Oriol García Ferrer,Si,2003-12-09,22
+285,Michel,Dubois Dubois,França,Lió,4,9,1979,Home,1149.75,No,1.0,Grup A,Michel Dubois Dubois,No,1979-09-04,46
+286,Carla,Ferrer,Espanya,Barcelona,27,10,1987,Dona,877.8000000000001,No,1.0,Grup A,Carla Ferrer,Si,1987-10-27,38
+288,Arnau,López Martínez,Espanya,Barcelona,15,11,1972,Home,1666.3500000000001,No,1.0,Grup A,Arnau López Martínez,Si,1972-11-15,53
+289,Miguel,González,Mèxic,Guadalajara,15,9,1955,Home,1232.7,No,1.0,Grup A,Miguel González,No,1955-09-15,70
+293,Marc,Martínez Martínez,Espanya,Bilbao,4,1,2001,Home,1751.4,Si,,Grup A,Marc Martínez Martínez,Si,2001-01-04,25
+295,Oriol,Romero Castells,Espanya,València,25,4,1970,Home,1539.3,No,1.0,Grup A,Oriol Romero Castells,Si,1970-04-25,55
+296,Jordi,Romero López,Espanya,Sevilla,13,3,1973,Home,1434.3,No,1.0,Grup A,Jordi Romero López,Si,1973-03-13,52
+299,José,González,Mèxic,Ciutat de Mèxic,16,8,1973,Home,1077.3,No,1.0,Grup A,José González,No,1973-08-16,52
+304,Eva,García,Espanya,València,28,9,1950,Dona,793.8000000000001,No,1.0,Grup A,Eva García,Si,1950-09-28,75
+305,George,Taylor Taylor,Regne Unit,Londres,8,9,1965,Home,1191.75,Si,,Grup A,George Taylor Taylor,No,1965-09-08,60
+307,Laia,Martínez,Espanya,Barcelona,11,2,1951,Dona,1371.3,No,1.0,Grup A,Laia Martínez,Si,1951-02-11,74
+308,Joan,Martínez Martínez,Espanya,València,1,2,1960,Home,1060.5,No,1.0,Grup A,Joan Martínez Martínez,Si,1960-02-01,66
+310,Sara,Torres Castro,Colòmbia,Medellín,8,8,1987,Dona,1097.25,No,1.0,Grup A,Sara Torres Castro,No,1987-08-08,38
+311,James,Smith,Regne Unit,Londres,1,6,1954,Home,1131.9,No,1.0,Grup A,James Smith,No,1954-06-01,71
+312,Laia,Martínez Romero,Espanya,Barcelona,5,9,1958,Dona,1097.25,No,1.0,Grup A,Laia Martínez Romero,Si,1958-09-05,67
+314,Pau,Ferrer López,Espanya,Madrid,16,2,1966,,1242.15,Si,,Grup A,Pau Ferrer López,Si,1966-02-16,59
+317,Marta,López,Espanya,Madrid,26,8,1988,Dona,1405.95,Si,,Grup A,Marta López,Si,1988-08-26,37
+324,Carla,Romero Ferrer,Espanya,Sevilla,28,5,1991,Dona,766.5,No,1.0,Grup A,Carla Romero Ferrer,Si,1991-05-28,34
+325,Laura,Castro Gutiérrez,Colòmbia,Bogotà,18,2,1950,Dona,1044.75,No,1.0,Grup A,Laura Castro Gutiérrez,No,1950-02-18,75
+326,Carla,Romero López,Espanya,Barcelona,23,5,2002,Dona,814.8000000000001,Si,,Grup A,Carla Romero López,Si,2002-05-23,23
+327,Eva,García,Espanya,Madrid,10,3,1971,,1289.4,Si,,Grup A,Eva García,Si,1971-03-10,54
+329,Mia,Schneider Müller,Alemanya,Munic,28,3,1957,Dona,804.3000000000001,No,1.0,Grup A,Mia Schneider Müller,No,1957-03-28,68
+336,Jordi,Romero Romero,Espanya,València,11,6,1984,Home,1020.6,No,1.0,Grup A,Jordi Romero Romero,Si,1984-06-11,41
+342,Marta,Romero Castells,Espanya,València,12,12,1988,Dona,876.75,No,1.0,Grup A,Marta Romero Castells,Si,1988-12-12,37
+343,Lucía,Fernández,Argentina,Buenos Aires,8,8,1953,Dona,802.2,No,1.0,Grup A,Lucía Fernández,No,1953-08-08,72
+344,Toni,García Ferrer,Espanya,València,22,9,1988,Home,1068.9,No,1.0,Grup A,Toni García Ferrer,Si,1988-09-22,37
+346,Amina,Zahraoui Fassi,Marroc,Casablanca,20,1,1984,Dona,1162.3500000000001,No,1.0,Grup A,Amina Zahraoui Fassi,No,1984-01-20,42
+349,Toni,Romero,Espanya,València,17,2,2003,Home,1705.2,Si,,Grup A,Toni Romero,Si,2003-02-17,22
+350,Eva,López,Espanya,Bilbao,26,12,1964,Dona,1274.7,No,1.0,Grup A,Eva López,Si,1964-12-26,61
+351,Louis,Girard Lefevre,França,Marsella,26,3,1983,Home,1059.45,Si,,Grup A,Louis Girard Lefevre,No,1983-03-26,42
+352,Jordi,García,Espanya,Bilbao,11,1,1950,Home,1043.7,No,1.0,Grup A,Jordi García,Si,1950-01-11,76
+353,Marta,López,Espanya,Sevilla,25,8,1971,Dona,1108.8,Si,,Grup A,Marta López,Si,1971-08-25,54
+354,Arnau,Ferrer García,Espanya,Sevilla,17,3,1989,Home,1445.8500000000001,No,1.0,Grup A,Arnau Ferrer García,Si,1989-03-17,36
+356,Salma,El Amrani,Marroc,Casablanca,12,10,1987,Dona,1484.7,No,1.0,Grup A,Salma El Amrani,No,1987-10-12,38
+358,Carla,García,Espanya,Barcelona,25,10,1952,Dona,997.5,No,1.0,Grup A,Carla García,Si,1952-10-25,73
+362,William,Brown Smith,Regne Unit,Londres,17,7,1959,Home,1204.3500000000001,Si,,Grup A,William Brown Smith,No,1959-07-17,66
+363,Clara,Castells Romero,Espanya,Barcelona,4,1,1999,Dona,1461.6000000000001,Si,,Grup A,Clara Castells Romero,Si,1999-01-04,27
+366,Pau,Castells,Espanya,Barcelona,1,7,1972,Home,1056.3,No,1.0,Grup A,Pau Castells,Si,1972-07-01,53
+369,Jordi,López,Espanya,València,24,10,1954,Home,1107.75,No,1.0,Grup A,Jordi López,Si,1954-10-24,71
+370,João,Oliveira Ferreira,Portugal,Lisboa,21,3,1985,Home,1286.25,No,1.0,Grup A,João Oliveira Ferreira,No,1985-03-21,40
+371,Andrés,Castro,Colòmbia,Medellín,8,3,2000,Altres,1045.8,No,1.0,Grup A,Andrés Castro,No,2000-03-08,25
+372,Anna,Castells,Espanya,Barcelona,2,1,1951,Dona,964.95,No,1.0,Grup A,Anna Castells,Si,1951-01-02,75
+374,Clara,García,Espanya,Sevilla,19,8,1998,Dona,784.35,No,1.0,Grup A,Clara García,Si,1998-08-19,27
+379,Lucía,Fernández,Argentina,Buenos Aires,28,11,1978,,795.9,No,1.0,Grup A,Lucía Fernández,No,1978-11-28,47
+382,Núria,Ferrer,Espanya,Barcelona,27,10,1977,Dona,1179.15,No,1.0,Grup A,Núria Ferrer,Si,1977-10-27,48
+387,Camille,Moreau,França,París,6,2,1957,Dona,836.85,No,1.0,Grup A,Camille Moreau,No,1957-02-06,68
+388,Oriol,Martínez Martínez,Espanya,Sevilla,21,3,1951,Home,1539.3,No,1.0,Grup A,Oriol Martínez Martínez,Si,1951-03-21,74
+389,Sophie,Jones,Regne Unit,Londres,26,1,1963,Dona,718.2,No,1.0,Grup A,Sophie Jones,No,1963-01-26,63
+395,Miguel,Silva,Portugal,Lisboa,12,6,1971,,941.85,No,1.0,Grup A,Miguel Silva,No,1971-06-12,54
+397,Laia,Ferrer Martínez,Espanya,Sevilla,23,10,1962,Dona,1478.4,Si,,Grup A,Laia Ferrer Martínez,Si,1962-10-23,63
+398,Laura,Rojas,Colòmbia,Medellín,9,5,1969,Dona,1037.4,No,1.0,Grup A,Laura Rojas,No,1969-05-09,56
+399,Arnau,Ferrer Sánchez,Espanya,Bilbao,6,11,1969,Home,1398.6000000000001,Si,,Grup A,Arnau Ferrer Sánchez,Si,1969-11-06,56
+400,Carla,Sánchez López,Espanya,Sevilla,11,6,1989,Dona,1135.05,Si,,Grup A,Carla Sánchez López,Si,1989-06-11,36
+402,Núria,López,Espanya,Sevilla,5,5,1977,Dona,1075.2,No,1.0,Grup A,Núria López,Si,1977-05-05,48
+404,Miguel,Cruz,Mèxic,Guadalajara,28,9,1955,Home,1318.8,Si,,Grup A,Miguel Cruz,No,1955-09-28,70
+405,Marc,López Martínez,Espanya,Madrid,18,11,2004,Home,1338.75,Si,,Grup A,Marc López Martínez,Si,2004-11-18,21
+407,Pau,López García,Espanya,Sevilla,4,7,1992,Home,1751.4,No,1.0,Grup A,Pau López García,Si,1992-07-04,33
+409,Francesca,Ferrari,Itàlia,Torí,25,3,1999,Dona,1097.25,Si,,Grup A,Francesca Ferrari,No,1999-03-25,26
+410,Toni,García García,Espanya,Madrid,9,6,1958,Home,1470.0,Si,,Grup A,Toni García García,Si,1958-06-09,67
+413,Anna,López,Espanya,Bilbao,17,6,1995,Dona,1396.5,Si,,Grup A,Anna López,Si,1995-06-17,30
+414,Toni,Sánchez Sánchez,Espanya,Sevilla,16,7,1950,Home,1358.7,No,1.0,Grup A,Toni Sánchez Sánchez,Si,1950-07-16,75
+417,Laia,Ferrer Romero,Espanya,Sevilla,25,8,1951,Dona,1368.15,Si,,Grup A,Laia Ferrer Romero,Si,1951-08-25,74
+418,Amina,El Amrani,Marroc,Rabat,25,1,1959,Dona,896.7,Si,,Grup A,Amina El Amrani,No,1959-01-25,67
+420,Jordi,Romero García,Espanya,Bilbao,19,12,1984,Home,1611.75,Si,,Grup A,Jordi Romero García,Si,1984-12-19,41
+422,Clara,López García,Espanya,València,13,10,1988,Dona,866.25,Si,,Grup A,Clara López García,Si,1988-10-13,37
+423,Laura,Castro,Colòmbia,Medellín,19,6,1958,Dona,1558.2,No,1.0,Grup A,Laura Castro,No,1958-06-19,67
+424,Clara,Sánchez Ferrer,Espanya,Madrid,21,4,1963,Dona,1390.2,Si,,Grup A,Clara Sánchez Ferrer,Si,1963-04-21,62
+425,Matías,Rodríguez,Argentina,Buenos Aires,12,6,1950,,1107.75,No,1.0,Grup A,Matías Rodríguez,No,1950-06-12,75
+426,Jordi,Sánchez Ferrer,Espanya,Madrid,2,4,1977,Home,1064.7,No,1.0,Grup A,Jordi Sánchez Ferrer,Si,1977-04-02,48
+428,Marc,Martínez García,Espanya,Sevilla,12,3,1965,Home,1664.25,No,1.0,Grup A,Marc Martínez García,Si,1965-03-12,60
+437,María,Cruz,Mèxic,Guadalajara,23,6,1978,Dona,783.3000000000001,Si,,Grup A,María Cruz,No,1978-06-23,47
+440,Carla,Martínez Sánchez,Espanya,Madrid,6,2,2004,Dona,723.45,Si,,Grup A,Carla Martínez Sánchez,Si,2004-02-06,22
+446,Tomás,Gómez,Argentina,Còrdova,19,1,1996,Home,1159.2,Si,,Grup A,Tomás Gómez,No,1996-01-19,30
+447,Pau,Castells,Espanya,Bilbao,17,4,1952,,1172.8500000000001,No,1.0,Grup A,Pau Castells,Si,1952-04-17,73
+450,Jean,Moreau Girard,França,Marsella,12,11,1989,Home,909.3000000000001,No,1.0,Grup A,Jean Moreau Girard,No,1989-11-12,36
+455,Laia,Martínez López,Espanya,València,17,5,1976,Dona,1237.95,Si,,Grup A,Laia Martínez López,Si,1976-05-17,49
+459,Anna,Romero,Espanya,València,17,11,1976,Dona,1350.3,No,1.0,Grup A,Anna Romero,Si,1976-11-17,49
+460,Daniel,Castro Torres,Colòmbia,Bogotà,5,4,1992,Home,1060.5,Si,,Grup A,Daniel Castro Torres,No,1992-04-05,33
+463,Youssef,Fassi El Amrani,Marroc,Rabat,26,5,1968,Home,1044.75,Si,,Grup A,Youssef Fassi El Amrani,No,1968-05-26,57
+464,Miguel,Ferreira,Portugal,Porto,19,2,1990,Home,1262.1000000000001,No,1.0,Grup A,Miguel Ferreira,No,1990-02-19,35
+465,Inês,Silva Oliveira,Portugal,Porto,11,2,1986,Dona,1000.6500000000001,No,1.0,Grup A,Inês Silva Oliveira,No,1986-02-11,39
+466,Marc,García López,Espanya,Madrid,11,8,1963,Home,1075.2,No,1.0,Grup A,Marc García López,Si,1963-08-11,62
+468,Daniel,Rojas Castro,Colòmbia,Medellín,7,10,1952,Home,838.95,Si,,Grup A,Daniel Rojas Castro,No,1952-10-07,73
+471,Anna,Ferrer,Espanya,Madrid,8,5,1966,Dona,805.35,No,1.0,Grup A,Anna Ferrer,Si,1966-05-08,59
+475,Núria,Romero Castells,Espanya,València,10,4,1996,,814.8000000000001,No,1.0,Grup A,Núria Romero Castells,Si,1996-04-10,29
+476,Toni,López,Espanya,Barcelona,27,9,1979,,904.0500000000001,No,1.0,Grup A,Toni López,Si,1979-09-27,46
+480,Marta,López,Espanya,Bilbao,24,7,1967,Dona,1492.05,No,1.0,Grup A,Marta López,Si,1967-07-24,58
+481,Oriol,Ferrer,Espanya,Madrid,9,7,1985,Altres,762.3000000000001,No,1.0,Grup A,Oriol Ferrer,Si,1985-07-09,40
+483,Núria,Romero,Espanya,València,11,6,1951,Dona,747.6,No,1.0,Grup A,Núria Romero,Si,1951-06-11,74
+484,Inês,Silva,Portugal,Lisboa,20,8,1990,Dona,1177.05,Si,,Grup A,Inês Silva,No,1990-08-20,35
+489,Clara,Romero,Espanya,Sevilla,23,3,1999,Dona,795.9,No,1.0,Grup A,Clara Romero,Si,1999-03-23,26
+490,Núria,Ferrer,Espanya,Bilbao,17,3,1979,Dona,1279.95,Si,,Grup A,Núria Ferrer,Si,1979-03-17,46
+492,Jordi,Castells,Espanya,Barcelona,19,7,1978,Home,1618.0500000000002,No,1.0,Grup A,Jordi Castells,Si,1978-07-19,47
+496,Alessia,Russo,Itàlia,Torí,28,11,1954,Dona,1017.45,Si,,Grup A,Alessia Russo,No,1954-11-28,71
+497,Florencia,Gómez,Argentina,Còrdova,8,7,1984,,1673.7,No,1.0,Grup A,Florencia Gómez,No,1984-07-08,41
+498,Pau,Martínez López,Espanya,València,19,12,1994,Home,1572.9,No,1.0,Grup A,Pau Martínez López,Si,1994-12-19,31
+500,Laia,Romero,Espanya,València,18,7,1950,Dona,1057.3500000000001,No,1.0,Grup A,Laia Romero,Si,1950-07-18,75
+501,Pau,Sánchez,Espanya,València,26,5,1954,Home,1481.55,No,1.0,Grup A,Pau Sánchez,Si,1954-05-26,71
+502,Daniel,Castro,Colòmbia,Medellín,13,10,1956,Home,1267.3500000000001,Si,,Grup A,Daniel Castro,No,1956-10-13,69
+504,Jordi,Ferrer,Espanya,Barcelona,28,6,2002,Home,1009.0500000000001,No,1.0,Grup A,Jordi Ferrer,Si,2002-06-28,23
+506,Salma,Zahraoui,Marroc,Casablanca,20,12,1971,Dona,1468.95,Si,,Grup A,Salma Zahraoui,No,1971-12-20,54
+510,Clara,Castells,Espanya,Madrid,15,3,1981,Dona,1594.95,Si,,Grup A,Clara Castells,Si,1981-03-15,44
+512,Eva,García Ferrer,Espanya,València,22,2,1991,Dona,698.25,Si,,Grup A,Eva García Ferrer,Si,1991-02-22,34
+516,Pau,Castells,Espanya,Barcelona,14,9,1991,Home,1642.2,No,1.0,Grup A,Pau Castells,Si,1991-09-14,34
+517,Joan,Ferrer,Espanya,Bilbao,21,5,1981,,1478.4,No,1.0,Grup A,Joan Ferrer,Si,1981-05-21,44
+519,Joan,Martínez Castells,Espanya,Barcelona,22,7,1987,Home,1223.25,No,1.0,Grup A,Joan Martínez Castells,Si,1987-07-22,38
+520,Toni,Castells Castells,Espanya,Madrid,20,3,1950,Home,1609.65,No,1.0,Grup A,Toni Castells Castells,Si,1950-03-20,75
+522,Carla,Ferrer Castells,Espanya,Sevilla,2,8,1957,Dona,1145.55,Si,,Grup A,Carla Ferrer Castells,Si,1957-08-02,68
+523,Toni,Ferrer,Espanya,Barcelona,24,8,1972,Home,1750.3500000000001,Si,,Grup A,Toni Ferrer,Si,1972-08-24,53
+525,Jordi,García,Espanya,Barcelona,3,1,1975,Home,1014.3000000000001,Si,,Grup A,Jordi García,Si,1975-01-03,51
+526,Francesca,Russo,Itàlia,Torí,9,11,1986,Dona,1411.2,Si,,Grup A,Francesca Russo,No,1986-11-09,39
+527,Arnau,Sánchez Martínez,Espanya,Madrid,12,11,2003,Home,804.3000000000001,No,1.0,Grup A,Arnau Sánchez Martínez,Si,2003-11-12,22
+528,Amina,Fassi,Marroc,Casablanca,13,12,1971,,1533.0,No,1.0,Grup A,Amina Fassi,No,1971-12-13,54
+529,Fatima,Zahraoui El Amrani,Marroc,Rabat,27,1,1986,Dona,1377.6000000000001,No,1.0,Grup A,Fatima Zahraoui El Amrani,No,1986-01-27,40
+534,Arnau,Sánchez Sánchez,Espanya,Sevilla,5,7,1974,Home,1559.25,No,1.0,Grup A,Arnau Sánchez Sánchez,Si,1974-07-05,51
+535,William,Brown,Regne Unit,Londres,24,2,1991,Home,1046.8500000000001,Si,,Grup A,William Brown,No,1991-02-24,34
+536,Marc,Castells,Espanya,Sevilla,20,9,1970,Home,1163.4,Si,,Grup A,Marc Castells,Si,1970-09-20,55
+538,Miguel,Oliveira Pereira,Portugal,Porto,19,4,1958,Home,1081.5,No,1.0,Grup A,Miguel Oliveira Pereira,No,1958-04-19,67
+539,Joan,Ferrer Castells,Espanya,Madrid,25,10,1967,Home,1311.45,Si,,Grup A,Joan Ferrer Castells,Si,1967-10-25,58
+541,Joan,Ferrer,Espanya,Sevilla,19,12,1970,,1062.6000000000001,No,1.0,Grup A,Joan Ferrer,Si,1970-12-19,55
+542,Youssef,Zahraoui,Marroc,Casablanca,2,3,1998,Home,1678.95,No,1.0,Grup A,Youssef Zahraoui,No,1998-03-02,27
+544,Toni,Castells,Espanya,València,1,5,1960,Home,1715.7,Si,,Grup A,Toni Castells,Si,1960-05-01,65
+545,Marc,Ferrer Romero,Espanya,Madrid,9,10,1973,Home,1135.05,No,1.0,Grup A,Marc Ferrer Romero,Si,1973-10-09,52
+546,Laura,Schneider,Alemanya,Hamburg,25,1,1957,Dona,1436.4,No,1.0,Grup A,Laura Schneider,No,1957-01-25,69
+551,Arnau,Sánchez,Espanya,Barcelona,16,12,1998,Home,1506.75,No,1.0,Grup A,Arnau Sánchez,Si,1998-12-16,27
+554,Eva,Ferrer,Espanya,Sevilla,4,11,1990,Dona,1433.25,Si,,Grup A,Eva Ferrer,Si,1990-11-04,35
+555,Pau,Sánchez,Espanya,Sevilla,1,2,1953,Home,1088.8500000000001,No,1.0,Grup A,Pau Sánchez,Si,1953-02-01,72
+558,Clara,Martínez Romero,Espanya,València,9,7,1973,Dona,1118.25,Si,,Grup A,Clara Martínez Romero,Si,1973-07-09,52
+559,Joan,Romero Martínez,Espanya,Barcelona,2,11,1973,Home,1623.3000000000002,Si,,Grup A,Joan Romero Martínez,Si,1973-11-02,52
+561,Marta,Castells López,Espanya,Barcelona,9,6,1985,Dona,1509.9,No,1.0,Grup A,Marta Castells López,Si,1985-06-09,40
+563,Pau,Ferrer Martínez,Espanya,Barcelona,24,12,1964,Home,895.6500000000001,No,1.0,Grup A,Pau Ferrer Martínez,Si,1964-12-24,61
+564,Alessandro,Ferrari,Itàlia,Torí,22,7,2003,Home,1515.15,Si,,Grup A,Alessandro Ferrari,No,2003-07-22,22
+565,Laia,Romero Martínez,Espanya,Barcelona,28,5,1964,Dona,1065.75,No,1.0,Grup A,Laia Romero Martínez,Si,1964-05-28,61
+568,Jean,Dubois,França,Marsella,24,11,1970,Home,1097.25,No,1.0,Grup A,Jean Dubois,No,1970-11-24,55
+569,Arnau,Romero,Espanya,València,24,6,1976,Home,810.6,No,1.0,Grup A,Arnau Romero,Si,1976-06-24,49
+570,Olivia,Taylor,Regne Unit,Londres,13,9,1992,,1486.8,Si,,Grup A,Olivia Taylor,No,1992-09-13,33
+571,Clara,Sánchez Romero,Espanya,Bilbao,16,3,2004,Dona,1075.2,No,1.0,Grup A,Clara Sánchez Romero,Si,2004-03-16,21
+574,João,Oliveira,Portugal,Lisboa,1,7,1979,Home,1339.8,No,1.0,Grup A,João Oliveira,No,1979-07-01,46
+575,Florencia,Álvarez,Argentina,Buenos Aires,14,11,1961,Dona,1095.15,No,1.0,Grup A,Florencia Álvarez,No,1961-11-14,64
+576,João,Silva,Portugal,Lisboa,2,7,1994,Home,1715.7,No,1.0,Grup A,João Silva,No,1994-07-02,31
+578,Marc,Martínez Castells,Espanya,Barcelona,13,5,1979,,1546.65,No,1.0,Grup A,Marc Martínez Castells,Si,1979-05-13,46
+582,Joan,Ferrer,Espanya,Sevilla,2,2,1964,Home,1273.65,No,1.0,Grup A,Joan Ferrer,Si,1964-02-02,62
+583,Jordi,Martínez Ferrer,Espanya,València,18,2,1972,Altres,816.9000000000001,No,1.0,Grup A,Jordi Martínez Ferrer,Si,1972-02-18,53
+584,Anna,Sánchez López,Espanya,Madrid,4,8,1997,Altres,1256.8500000000001,No,1.0,Grup A,Anna Sánchez López,Si,1997-08-04,28
+586,Eva,Romero,Espanya,Bilbao,18,7,1967,Dona,1388.1000000000001,No,1.0,Grup A,Eva Romero,Si,1967-07-18,58
+587,Pau,Castells Martínez,Espanya,Barcelona,3,1,1985,Home,1304.1000000000001,No,1.0,Grup A,Pau Castells Martínez,Si,1985-01-03,41
+590,Jordi,García López,Espanya,Sevilla,6,6,1971,Home,1311.45,Si,,Grup A,Jordi García López,Si,1971-06-06,54
+591,Núria,Romero Romero,Espanya,Madrid,3,3,1962,Dona,938.7,No,1.0,Grup A,Núria Romero Romero,Si,1962-03-03,63
+592,Gabriela,Cruz,Mèxic,Guadalajara,27,1,1955,Dona,1465.8,No,1.0,Grup A,Gabriela Cruz,No,1955-01-27,71
+594,Laia,Castells,Espanya,Madrid,9,8,1977,Dona,1030.05,No,1.0,Grup A,Laia Castells,Si,1977-08-09,48
+595,Marta,Martínez,Espanya,Sevilla,17,7,2000,Dona,1256.8500000000001,No,1.0,Grup A,Marta Martínez,Si,2000-07-17,25
+596,Arnau,Sánchez,Espanya,Bilbao,23,1,1978,Home,1162.3500000000001,No,1.0,Grup A,Arnau Sánchez,Si,1978-01-23,48
+600,Francesca,Conti,Itàlia,Roma,10,8,1955,Dona,850.5,Si,,Grup A,Francesca Conti,No,1955-08-10,70
+603,Clara,Sánchez Castells,Espanya,València,6,10,1973,Dona,1225.3500000000001,No,1.0,Grup A,Clara Sánchez Castells,Si,1973-10-06,52
+605,Núria,Castells,Espanya,València,16,2,2001,Dona,936.6,No,1.0,Grup A,Núria Castells,Si,2001-02-16,24
+607,Marta,Martínez Ferrer,Espanya,València,2,11,2001,Dona,846.3000000000001,No,1.0,Grup A,Marta Martínez Ferrer,Si,2001-11-02,24
+608,Núria,Martínez Martínez,Espanya,Bilbao,20,8,2002,Dona,1056.3,No,1.0,Grup A,Núria Martínez Martínez,Si,2002-08-20,23
+609,Tiago,Ferreira Pereira,Portugal,Lisboa,15,3,1959,Altres,1326.15,No,1.0,Grup A,Tiago Ferreira Pereira,No,1959-03-15,66
+611,Pau,López,Espanya,Madrid,28,12,1971,Home,833.7,Si,,Grup A,Pau López,Si,1971-12-28,54
+612,Anna,Ferrer Martínez,Espanya,Bilbao,15,10,1981,Dona,892.5,Si,,Grup A,Anna Ferrer Martínez,Si,1981-10-15,44
+613,Oriol,Martínez,Espanya,Sevilla,23,12,1991,Home,843.1500000000001,Si,,Grup A,Oriol Martínez,Si,1991-12-23,34
+614,Toni,Martínez López,Espanya,Madrid,4,12,1983,Home,1687.3500000000001,Si,,Grup A,Toni Martínez López,Si,1983-12-04,42
+615,Marc,García,Espanya,Madrid,14,7,1977,Home,1678.95,No,1.0,Grup A,Marc García,Si,1977-07-14,48
+618,Daniel,Rojas Torres,Colòmbia,Bogotà,20,8,1985,Home,1529.8500000000001,Si,,Grup A,Daniel Rojas Torres,No,1985-08-20,40
+619,Carla,López Romero,Espanya,Sevilla,22,4,1954,Dona,1231.65,Si,,Grup A,Carla López Romero,Si,1954-04-22,71
+622,Anna,Castells Ferrer,Espanya,Barcelona,8,1,1983,Dona,1568.7,Si,,Grup A,Anna Castells Ferrer,Si,1983-01-08,43
+627,Marc,López,Espanya,Sevilla,23,1,1965,Home,884.1,Si,,Grup A,Marc López,Si,1965-01-23,61
+630,Jordi,Ferrer Martínez,Espanya,València,12,11,1981,Home,1747.2,No,1.0,Grup A,Jordi Ferrer Martínez,Si,1981-11-12,44
+636,Louis,Dubois Girard,França,Lió,21,11,1950,Home,1139.25,No,1.0,Grup A,Louis Dubois Girard,No,1950-11-21,75
+638,Oriol,Castells Ferrer,Espanya,València,14,10,1959,Home,1654.8000000000002,Si,,Grup A,Oriol Castells Ferrer,Si,1959-10-14,66
+642,Inês,Oliveira Ferreira,Portugal,Lisboa,2,5,1970,Dona,721.35,No,1.0,Grup A,Inês Oliveira Ferreira,No,1970-05-02,55
+643,Laia,Ferrer,Espanya,Sevilla,18,6,1988,Dona,994.35,No,1.0,Grup A,Laia Ferrer,Si,1988-06-18,37
+646,Camila,Cruz Cruz,Mèxic,Guadalajara,2,1,1952,Dona,880.95,No,1.0,Grup A,Camila Cruz Cruz,No,1952-01-02,74
+647,Núria,Martínez Sánchez,Espanya,Madrid,23,5,1967,Dona,959.7,Si,,Grup A,Núria Martínez Sánchez,Si,1967-05-23,58
+648,Carla,Ferrer García,Espanya,Madrid,19,12,1960,Dona,1475.25,Si,,Grup A,Carla Ferrer García,Si,1960-12-19,65
+649,Toni,Romero,Espanya,Barcelona,7,5,1990,Home,1156.05,No,1.0,Grup A,Toni Romero,Si,1990-05-07,35
+651,Jordi,García Martínez,Espanya,Sevilla,7,2,1974,Home,812.7,Si,,Grup A,Jordi García Martínez,Si,1974-02-07,51
+652,Alessia,Russo Russo,Itàlia,Torí,18,5,1995,Dona,1220.1000000000001,No,1.0,Grup A,Alessia Russo Russo,No,1995-05-18,30
+654,Eva,Romero,Espanya,Madrid,21,1,1972,Dona,1073.1000000000001,Si,,Grup A,Eva Romero,Si,1972-01-21,54
+658,Joan,López,Espanya,Barcelona,22,10,1964,Home,1704.15,No,1.0,Grup A,Joan López,Si,1964-10-22,61
+660,Joan,García,Espanya,Bilbao,23,6,1960,Home,867.3000000000001,No,1.0,Grup A,Joan García,Si,1960-06-23,65
+664,Louis,Dubois Dubois,França,París,22,9,1964,Home,1050.0,No,1.0,Grup A,Louis Dubois Dubois,No,1964-09-22,61
+665,Giovanni,Rossi Ferrari,Itàlia,Torí,14,6,1991,Home,1073.1000000000001,No,1.0,Grup A,Giovanni Rossi Ferrari,No,1991-06-14,34
+666,Marc,Sánchez,Espanya,Bilbao,3,6,1996,Home,1200.15,Si,,Grup A,Marc Sánchez,Si,1996-06-03,29
+667,Francesca,Rossi Russo,Itàlia,Torí,1,9,1994,Dona,1316.7,No,1.0,Grup A,Francesca Rossi Russo,No,1994-09-01,31
+668,Anna,Ferrer Romero,Espanya,Sevilla,24,1,2005,Dona,753.9,No,1.0,Grup A,Anna Ferrer Romero,Si,2005-01-24,21
+670,Chloé,Moreau,França,Marsella,5,5,1976,Dona,1231.65,Si,,Grup A,Chloé Moreau,No,1976-05-05,49
+672,Lucas,Álvarez,Argentina,Buenos Aires,2,8,1978,Home,943.95,Si,,Grup A,Lucas Álvarez,No,1978-08-02,47
+674,Carla,López,Espanya,València,27,6,1972,Dona,957.6,No,1.0,Grup A,Carla López,Si,1972-06-27,53
+675,Jordi,Ferrer,Espanya,Bilbao,22,5,1960,Home,1391.25,No,1.0,Grup A,Jordi Ferrer,Si,1960-05-22,65
+681,Laia,Ferrer,Espanya,Madrid,18,8,1973,Dona,1137.15,Si,,Grup A,Laia Ferrer,Si,1973-08-18,52
+684,Andrés,Torres,Colòmbia,Medellín,13,1,1967,Home,1645.3500000000001,No,1.0,Grup A,Andrés Torres,No,1967-01-13,59
+685,Joan,Martínez Romero,Espanya,Madrid,19,6,1972,Home,1185.45,Si,,Grup A,Joan Martínez Romero,Si,1972-06-19,53
+686,Eva,Castells Romero,Espanya,Bilbao,25,6,1974,Dona,1382.8500000000001,No,1.0,Grup A,Eva Castells Romero,Si,1974-06-25,51
+688,Juan,Álvarez,Argentina,Buenos Aires,21,2,1968,Home,931.35,Si,,Grup A,Juan Álvarez,No,1968-02-21,57
+689,Valentina,Castro Rojas,Colòmbia,Medellín,8,12,1986,Dona,857.85,Si,,Grup A,Valentina Castro Rojas,No,1986-12-08,39
+692,Marc,Romero,Espanya,València,8,6,1957,Home,832.6500000000001,Si,,Grup A,Marc Romero,Si,1957-06-08,68
+693,Arnau,Martínez Romero,Espanya,Bilbao,26,8,1997,Home,1501.5,No,1.0,Grup A,Arnau Martínez Romero,Si,1997-08-26,28
+694,Eva,Castells Romero,Espanya,Barcelona,13,2,1980,Altres,977.5500000000001,No,1.0,Grup A,Eva Castells Romero,Si,1980-02-13,45
+695,Oriol,Martínez,Espanya,València,17,7,1951,Home,1672.65,No,1.0,Grup A,Oriol Martínez,Si,1951-07-17,74
+696,Toni,Ferrer,Espanya,Bilbao,7,4,1996,Altres,1332.45,No,1.0,Grup A,Toni Ferrer,Si,1996-04-07,29
+702,Marta,Sánchez,Espanya,València,28,10,1980,Dona,1424.8500000000001,Si,,Grup A,Marta Sánchez,Si,1980-10-28,45
+703,Carla,López,Espanya,València,4,6,1994,Dona,1043.7,Si,,Grup A,Carla López,Si,1994-06-04,31
+711,Oriol,Martínez Sánchez,Espanya,València,3,9,1969,Home,1274.7,Si,,Grup A,Oriol Martínez Sánchez,Si,1969-09-03,56
+712,Eva,Martínez Martínez,Espanya,Madrid,16,9,2003,Dona,1355.55,No,1.0,Grup A,Eva Martínez Martínez,Si,2003-09-16,22
+717,Núria,López,Espanya,Sevilla,7,6,1956,Dona,1379.7,No,1.0,Grup A,Núria López,Si,1956-06-07,69
+719,Pau,Ferrer,Espanya,Sevilla,23,2,1996,Home,1582.3500000000001,Si,,Grup A,Pau Ferrer,Si,1996-02-23,29
+720,Laia,Castells Castells,Espanya,Bilbao,3,12,1968,,1396.5,Si,,Grup A,Laia Castells Castells,Si,1968-12-03,57
+721,Clara,Castells,Espanya,Barcelona,17,7,1953,Dona,816.9000000000001,No,1.0,Grup A,Clara Castells,Si,1953-07-17,72
+723,Oriol,Romero,Espanya,Bilbao,28,3,1959,,958.6500000000001,Si,,Grup A,Oriol Romero,Si,1959-03-28,66
+724,Emily,Taylor,Regne Unit,Londres,24,3,1976,Dona,1312.5,Si,,Grup A,Emily Taylor,No,1976-03-24,49
+726,Clara,López García,Espanya,Sevilla,18,8,1955,Dona,1037.4,No,1.0,Grup A,Clara López García,Si,1955-08-18,70
+728,George,Brown Jones,Regne Unit,Manchester,27,12,1979,Home,1186.5,Si,,Grup A,George Brown Jones,No,1979-12-27,46
+729,Arnau,Martínez,Espanya,Bilbao,13,8,1964,Home,1387.05,No,1.0,Grup A,Arnau Martínez,Si,1964-08-13,61
+730,Carla,Castells López,Espanya,València,17,10,1966,Dona,1085.7,No,1.0,Grup A,Carla Castells López,Si,1966-10-17,59
+733,Joan,García Ferrer,Espanya,Madrid,1,6,1975,Home,840.0,Si,,Grup A,Joan García Ferrer,Si,1975-06-01,50
+737,Marc,García,Espanya,Madrid,8,1,1972,Altres,1630.65,No,1.0,Grup A,Marc García,Si,1972-01-08,54
+738,Toni,Castells,Espanya,Sevilla,11,5,2004,Home,1420.65,No,1.0,Grup A,Toni Castells,Si,2004-05-11,21
+739,Arnau,García,Espanya,Sevilla,10,9,1966,,1291.5,No,1.0,Grup A,Arnau García,Si,1966-09-10,59
+743,Joan,Romero Romero,Espanya,Barcelona,3,11,1995,Home,1163.4,Si,,Grup A,Joan Romero Romero,Si,1995-11-03,30
+746,Clara,García López,Espanya,València,21,1,1983,Dona,1156.05,Si,,Grup A,Clara García López,Si,1983-01-21,43
+747,Clara,Sánchez,Espanya,Barcelona,3,10,1985,Dona,1502.55,No,1.0,Grup A,Clara Sánchez,Si,1985-10-03,40
+748,Núria,López,Espanya,Barcelona,28,5,1961,Dona,836.85,Si,,Grup A,Núria López,Si,1961-05-28,64
+751,Olivia,Brown Brown,Regne Unit,Manchester,28,8,1952,Altres,1074.15,No,1.0,Grup A,Olivia Brown Brown,No,1952-08-28,73
+752,Eva,Sánchez,Espanya,Sevilla,28,6,1958,Altres,738.15,No,1.0,Grup A,Eva Sánchez,Si,1958-06-28,67
+754,Miguel,Ramírez,Mèxic,Ciutat de Mèxic,26,4,2005,Home,1748.25,No,1.0,Grup A,Miguel Ramírez,No,2005-04-26,20
+755,Khadija,El Amrani,Marroc,Casablanca,13,9,1998,Dona,1192.8,Si,,Grup A,Khadija El Amrani,No,1998-09-13,27
+757,Jordi,López,Espanya,Sevilla,18,2,1998,Home,922.95,No,1.0,Grup A,Jordi López,Si,1998-02-18,27
+760,Michel,Girard,França,París,12,3,2004,Home,1593.9,Si,,Grup A,Michel Girard,No,2004-03-12,21
+761,Valentina,Torres,Colòmbia,Medellín,12,7,1981,Dona,901.95,Si,,Grup A,Valentina Torres,No,1981-07-12,44
+762,José,Cruz González,Mèxic,Ciutat de Mèxic,24,10,1983,Home,1501.5,No,1.0,Grup A,José Cruz González,No,1983-10-24,42
+764,Eva,García,Espanya,Barcelona,27,10,1960,Dona,760.2,Si,,Grup A,Eva García,Si,1960-10-27,65
+765,Camila,Cruz Cruz,Mèxic,Ciutat de Mèxic,19,7,1954,Dona,1356.6000000000001,Si,,Grup A,Camila Cruz Cruz,No,1954-07-19,71
+769,Marc,García Romero,Espanya,Bilbao,25,1,2004,Home,1140.3,No,1.0,Grup A,Marc García Romero,Si,2004-01-25,22
+770,Anna,Ferrer Castells,Espanya,Bilbao,1,9,1953,Dona,1220.1000000000001,No,1.0,Grup A,Anna Ferrer Castells,Si,1953-09-01,72
+771,Anna,Romero,Espanya,Madrid,11,3,1990,Dona,1010.1,No,1.0,Grup A,Anna Romero,Si,1990-03-11,35
+774,Laia,López López,Espanya,Bilbao,3,5,1997,Dona,1109.8500000000001,Si,,Grup A,Laia López López,Si,1997-05-03,28
+775,Ali,Bennani Fassi,Marroc,Casablanca,14,12,1983,Home,1585.5,No,1.0,Grup A,Ali Bennani Fassi,No,1983-12-14,42
+780,Jordi,García Ferrer,Espanya,Sevilla,21,8,1959,Home,1140.3,Si,,Grup A,Jordi García Ferrer,Si,1959-08-21,66
+781,Lucía,Álvarez,Argentina,Buenos Aires,10,8,1972,Altres,1198.05,No,1.0,Grup A,Lucía Álvarez,No,1972-08-10,53
+786,Marta,Castells López,Espanya,Bilbao,10,1,1964,Dona,1224.3,Si,,Grup A,Marta Castells López,Si,1964-01-10,62
+787,Anna,Martínez,Espanya,Sevilla,24,2,1973,Dona,1212.75,No,1.0,Grup A,Anna Martínez,Si,1973-02-24,52
+788,Carla,Castells Castells,Espanya,Barcelona,27,3,1977,Dona,1500.45,No,1.0,Grup A,Carla Castells Castells,Si,1977-03-27,48
+794,Eva,Martínez,Espanya,València,4,12,1970,Dona,1299.9,No,1.0,Grup A,Eva Martínez,Si,1970-12-04,55
+800,Marta,Romero,Espanya,Barcelona,8,4,1957,Dona,724.5,No,1.0,Grup A,Marta Romero,Si,1957-04-08,68
+801,Lucía,Fernández Álvarez,Argentina,Còrdova,11,3,1973,Dona,718.2,Si,,Grup A,Lucía Fernández Álvarez,No,1973-03-11,52
+802,Eva,García,Espanya,Bilbao,17,3,1997,Dona,1085.7,No,1.0,Grup A,Eva García,Si,1997-03-17,28
+803,Carla,Sánchez,Espanya,València,10,6,1981,Dona,754.95,Si,,Grup A,Carla Sánchez,Si,1981-06-10,44
+804,Toni,Martínez Castells,Espanya,Barcelona,23,10,1957,Home,1445.8500000000001,No,1.0,Grup A,Toni Martínez Castells,Si,1957-10-23,68
+813,Matías,Fernández,Argentina,Buenos Aires,28,4,1953,Home,1315.65,No,1.0,Grup A,Matías Fernández,No,1953-04-28,72
+814,Joan,García,Espanya,València,1,4,1977,Home,1670.5500000000002,Si,,Grup A,Joan García,Si,1977-04-01,48
+815,Joan,López,Espanya,Sevilla,12,8,1992,Home,1025.8500000000001,No,1.0,Grup A,Joan López,Si,1992-08-12,33
+817,Amina,Zahraoui Zahraoui,Marroc,Casablanca,20,4,1973,Dona,1526.7,No,1.0,Grup A,Amina Zahraoui Zahraoui,No,1973-04-20,52
+820,Youssef,Fassi Zahraoui,Marroc,Rabat,13,7,1974,Altres,1164.45,Si,,Grup A,Youssef Fassi Zahraoui,No,1974-07-13,51
+823,Michel,Lefevre,França,Marsella,28,1,1988,Home,1176.0,No,1.0,Grup A,Michel Lefevre,No,1988-01-28,38
+824,Tomás,Fernández Fernández,Argentina,Còrdova,13,6,1964,Home,1090.95,No,1.0,Grup A,Tomás Fernández Fernández,No,1964-06-13,61
+825,Carlos,Ramírez Cruz,Mèxic,Ciutat de Mèxic,28,12,1971,Home,1605.45,Si,,Grup A,Carlos Ramírez Cruz,No,1971-12-28,54
+826,Oriol,Castells,Espanya,Sevilla,27,3,1998,Home,1642.2,Si,,Grup A,Oriol Castells,Si,1998-03-27,27
+827,Lukas,Müller Schmidt,Alemanya,Munic,23,2,2005,Home,1651.65,No,1.0,Grup A,Lukas Müller Schmidt,No,2005-02-23,20
+828,Núria,García,Espanya,València,11,4,1993,Dona,838.95,No,1.0,Grup A,Núria García,Si,1993-04-11,32
+830,Arnau,Sánchez,Espanya,Madrid,28,10,1973,Home,1024.8,Si,,Grup A,Arnau Sánchez,Si,1973-10-28,52
+837,Fatima,Zahraoui Zahraoui,Marroc,Casablanca,6,2,1993,Dona,1276.8,No,1.0,Grup A,Fatima Zahraoui Zahraoui,No,1993-02-06,33
+838,Eva,García,Espanya,València,22,6,1993,Dona,1516.2,No,1.0,Grup A,Eva García,Si,1993-06-22,32
+839,Pau,Romero,Espanya,Madrid,20,2,1953,Home,1412.25,No,1.0,Grup A,Pau Romero,Si,1953-02-20,72
+843,Marta,Sánchez,Espanya,Sevilla,17,3,1999,Dona,1458.45,No,1.0,Grup A,Marta Sánchez,Si,1999-03-17,26
+844,Oriol,Martínez,Espanya,Sevilla,22,7,1977,Home,1415.4,Si,,Grup A,Oriol Martínez,Si,1977-07-22,48
+848,Oriol,Sánchez García,Espanya,València,21,5,1993,Home,939.75,No,1.0,Grup A,Oriol Sánchez García,Si,1993-05-21,32
+849,Carla,Castells Ferrer,Espanya,Bilbao,20,7,1952,Dona,1397.55,No,1.0,Grup A,Carla Castells Ferrer,Si,1952-07-20,73
+850,Carla,Martínez Castells,Espanya,Barcelona,21,10,1980,Dona,792.75,No,1.0,Grup A,Carla Martínez Castells,Si,1980-10-21,45
+854,Isla,Jones Brown,Regne Unit,Manchester,28,3,1999,Dona,1256.8500000000001,No,1.0,Grup A,Isla Jones Brown,No,1999-03-28,26
+856,Louis,Lefevre Girard,França,París,23,10,1970,Home,773.85,Si,,Grup A,Louis Lefevre Girard,No,1970-10-23,55
+857,Pau,Romero Castells,Espanya,Madrid,8,8,1968,Home,1500.45,Si,,Grup A,Pau Romero Castells,Si,1968-08-08,57
+860,Anna,López,Espanya,Madrid,2,1,1952,Dona,1115.1000000000001,Si,,Grup A,Anna López,Si,1952-01-02,74
+864,Omar,Zahraoui Zahraoui,Marroc,Rabat,1,7,1983,,1334.55,Si,,Grup A,Omar Zahraoui Zahraoui,No,1983-07-01,42
+865,Oriol,López Romero,Espanya,Barcelona,22,5,1983,Home,1191.75,Si,,Grup A,Oriol López Romero,Si,1983-05-22,42
+867,Santiago,Rojas,Colòmbia,Bogotà,5,4,1987,Home,870.45,No,1.0,Grup A,Santiago Rojas,No,1987-04-05,38
+869,Arnau,Romero Martínez,Espanya,València,7,5,1962,Home,1307.25,Si,,Grup A,Arnau Romero Martínez,Si,1962-05-07,63
+871,Lea,Fischer,Alemanya,Berlín,9,9,1986,Dona,1438.5,Si,,Grup A,Lea Fischer,No,1986-09-09,39
+872,William,Smith,Regne Unit,Manchester,19,5,1997,Home,1475.25,Si,,Grup A,William Smith,No,1997-05-19,28
+874,Marc,Ferrer,Espanya,Madrid,27,4,1954,Home,1717.8000000000002,Si,,Grup A,Marc Ferrer,Si,1954-04-27,71
+875,Luisa,González Hernández,Mèxic,Ciutat de Mèxic,19,4,2005,Dona,721.35,No,1.0,Grup A,Luisa González Hernández,No,2005-04-19,20
+876,Carla,Ferrer,Espanya,Barcelona,13,12,1969,Dona,956.5500000000001,No,1.0,Grup A,Carla Ferrer,Si,1969-12-13,56
+878,Laia,Castells Ferrer,Espanya,Madrid,7,5,1971,Dona,1591.8,Si,,Grup A,Laia Castells Ferrer,Si,1971-05-07,54
+882,Laia,Sánchez Martínez,Espanya,Barcelona,10,2,1971,Dona,1498.3500000000001,No,1.0,Grup A,Laia Sánchez Martínez,Si,1971-02-10,54
+886,Eva,López Castells,Espanya,Sevilla,4,12,2004,,917.7,Si,,Grup A,Eva López Castells,Si,2004-12-04,21
+887,Oriol,Castells,Espanya,Barcelona,3,12,1987,Home,1745.1000000000001,No,1.0,Grup A,Oriol Castells,Si,1987-12-03,38
+888,Joan,Sánchez,Espanya,Bilbao,18,3,1982,Home,1713.6000000000001,No,1.0,Grup A,Joan Sánchez,Si,1982-03-18,43
+889,Marc,Castells,Espanya,Sevilla,24,3,1974,Home,1058.4,No,1.0,Grup A,Marc Castells,Si,1974-03-24,51
+891,Marc,Sánchez Ferrer,Espanya,València,1,4,1998,Home,1016.4000000000001,No,1.0,Grup A,Marc Sánchez Ferrer,Si,1998-04-01,27
+892,Anna,Sánchez,Espanya,València,5,6,1988,Dona,1013.25,No,1.0,Grup A,Anna Sánchez,Si,1988-06-05,37
+898,Julieta,Fernández,Argentina,Buenos Aires,28,1,1961,Dona,1567.65,Si,,Grup A,Julieta Fernández,No,1961-01-28,65
+899,Antoine,Lefevre,França,Lió,17,6,1999,Home,1303.05,No,1.0,Grup A,Antoine Lefevre,No,1999-06-17,26
+900,Laia,Martínez Romero,Espanya,Madrid,28,12,1957,Altres,764.4,Si,,Grup A,Laia Martínez Romero,Si,1957-12-28,68
+901,Jordi,Romero García,Espanya,Barcelona,17,2,1972,Home,1190.7,No,1.0,Grup A,Jordi Romero García,Si,1972-02-17,53
+903,Anna,García García,Espanya,Madrid,8,5,2003,Dona,889.35,Si,,Grup A,Anna García García,Si,2003-05-08,22
+906,Jordi,Castells,Espanya,Bilbao,6,2,1963,Home,1371.3,Si,,Grup A,Jordi Castells,Si,1963-02-06,62
+907,Núria,Martínez,Espanya,Bilbao,10,3,1971,Dona,1037.4,No,1.0,Grup A,Núria Martínez,Si,1971-03-10,54
+908,Núria,García,Espanya,Bilbao,15,6,2001,Dona,732.9,Si,,Grup A,Núria García,Si,2001-06-15,24
+912,Martina,Gómez,Argentina,Buenos Aires,5,12,1963,Dona,1042.65,No,1.0,Grup A,Martina Gómez,No,1963-12-05,62
+913,Luisa,Cruz Ramírez,Mèxic,Guadalajara,19,2,1985,Dona,758.1,No,1.0,Grup A,Luisa Cruz Ramírez,No,1985-02-19,40
+914,Núria,Romero,Espanya,Madrid,9,4,1974,Dona,717.15,Si,,Grup A,Núria Romero,Si,1974-04-09,51
+915,Marc,López García,Espanya,Bilbao,10,9,2005,Home,1333.5,No,1.0,Grup A,Marc López García,Si,2005-09-10,20
+916,Anna,Sánchez,Espanya,Sevilla,17,7,1971,Dona,805.35,Si,,Grup A,Anna Sánchez,Si,1971-07-17,54
+918,Núria,Romero,Espanya,Madrid,9,3,1956,Dona,1485.75,No,1.0,Grup A,Núria Romero,Si,1956-03-09,69
+919,Clara,Ferrer Castells,Espanya,Sevilla,25,7,1998,Dona,1462.65,No,1.0,Grup A,Clara Ferrer Castells,Si,1998-07-25,27
+920,Joan,Martínez Castells,Espanya,Madrid,4,10,1985,Home,1195.95,No,1.0,Grup A,Joan Martínez Castells,Si,1985-10-04,40
+921,Núria,Ferrer,Espanya,València,26,4,1995,Dona,1294.65,No,1.0,Grup A,Núria Ferrer,Si,1995-04-26,30
+922,Pau,Ferrer,Espanya,Sevilla,6,3,1997,Home,1499.4,No,1.0,Grup A,Pau Ferrer,Si,1997-03-06,28
+924,Pau,López Ferrer,Espanya,Bilbao,13,4,1960,Home,1185.45,Si,,Grup A,Pau López Ferrer,Si,1960-04-13,65
+934,Anna,García,Espanya,Madrid,15,3,1960,Dona,1186.5,Si,,Grup A,Anna García,Si,1960-03-15,65
+939,Jordi,López Romero,Espanya,Bilbao,17,12,1978,Home,1066.8,No,1.0,Grup A,Jordi López Romero,Si,1978-12-17,47
+940,Toni,García,Espanya,València,4,5,1952,Home,1132.95,No,1.0,Grup A,Toni García,Si,1952-05-04,73
+942,Youssef,Bennani El Amrani,Marroc,Rabat,5,9,1960,Home,1699.95,No,1.0,Grup A,Youssef Bennani El Amrani,No,1960-09-05,65
+943,Clara,Romero,Espanya,Bilbao,5,12,2004,Dona,1582.3500000000001,No,1.0,Grup A,Clara Romero,Si,2004-12-05,21
+946,Carla,Sánchez Romero,Espanya,Madrid,22,1,2005,,936.6,No,1.0,Grup A,Carla Sánchez Romero,Si,2005-01-22,21
+949,Núria,Martínez Ferrer,Espanya,València,4,11,1976,Dona,1079.4,No,1.0,Grup A,Núria Martínez Ferrer,Si,1976-11-04,49
+950,Felipe,Gutiérrez,Colòmbia,Medellín,13,11,1989,Home,1338.75,No,1.0,Grup A,Felipe Gutiérrez,No,1989-11-13,36
+951,Toni,Romero,Espanya,Sevilla,26,9,1952,,1283.1000000000001,Si,,Grup A,Toni Romero,Si,1952-09-26,73
+953,Eva,García,Espanya,Bilbao,13,9,1978,Dona,1172.8500000000001,No,1.0,Grup A,Eva García,Si,1978-09-13,47
+954,Isla,Taylor Smith,Regne Unit,Londres,7,5,1965,Dona,1298.8500000000001,No,1.0,Grup A,Isla Taylor Smith,No,1965-05-07,60
+956,Oriol,Sánchez,Espanya,Barcelona,5,2,1986,Home,784.35,No,1.0,Grup A,Oriol Sánchez,Si,1986-02-05,40
+957,Jean,Girard Lefevre,França,Lió,28,12,1960,Home,976.5,No,1.0,Grup A,Jean Girard Lefevre,No,1960-12-28,65
+958,Oriol,Sánchez García,Espanya,València,16,7,1965,Home,1336.65,No,1.0,Grup A,Oriol Sánchez García,Si,1965-07-16,60
+961,Clara,Romero García,Espanya,València,8,2,1989,Dona,1308.3,Si,,Grup A,Clara Romero García,Si,1989-02-08,36
+962,Toni,López,Espanya,Bilbao,3,6,1956,Home,899.85,No,1.0,Grup A,Toni López,Si,1956-06-03,69
+963,Laia,Romero,Espanya,Barcelona,17,9,1966,Dona,999.6,Si,,Grup A,Laia Romero,Si,1966-09-17,59
+966,Núria,García Castells,Espanya,Sevilla,23,12,1986,Dona,1321.95,No,1.0,Grup A,Núria García Castells,Si,1986-12-23,39
+967,Marc,Castells Castells,Espanya,Bilbao,18,12,1955,Home,1396.5,Si,,Grup A,Marc Castells Castells,Si,1955-12-18,70
+968,Toni,Romero Martínez,Espanya,Bilbao,15,9,1980,Home,1282.05,No,1.0,Grup A,Toni Romero Martínez,Si,1980-09-15,45
+974,Jordi,Romero,Espanya,Barcelona,6,9,1952,Home,1756.65,Si,,Grup A,Jordi Romero,Si,1952-09-06,73
+975,Oriol,García Castells,Espanya,Barcelona,8,5,1987,Home,962.85,No,1.0,Grup A,Oriol García Castells,Si,1987-05-08,38
+978,William,Taylor,Regne Unit,Londres,11,10,1957,Home,1067.8500000000001,No,1.0,Grup A,William Taylor,No,1957-10-11,68
+979,Arnau,Martínez,Espanya,Bilbao,9,10,1996,Home,1230.6000000000001,Si,,Grup A,Arnau Martínez,Si,1996-10-09,29
+980,Chloé,Girard Girard,França,Marsella,17,12,1956,Dona,1504.65,No,1.0,Grup A,Chloé Girard Girard,No,1956-12-17,69
+982,Felipe,Gutiérrez,Colòmbia,Medellín,17,9,1953,Home,1199.1000000000001,Si,,Grup A,Felipe Gutiérrez,No,1953-09-17,72
+983,Élise,Moreau Moreau,França,París,10,6,1992,Dona,1446.9,No,1.0,Grup A,Élise Moreau Moreau,No,1992-06-10,33
+986,Andrés,Ramírez Hernández,Mèxic,Ciutat de Mèxic,2,9,1956,Home,1529.8500000000001,Si,,Grup A,Andrés Ramírez Hernández,No,1956-09-02,69
+989,Jean,Dubois,França,Lió,13,2,1960,Home,1051.05,Si,,Grup A,Jean Dubois,No,1960-02-13,65
+992,Toni,López,Espanya,Sevilla,20,10,1950,,1614.9,No,1.0,Grup A,Toni López,Si,1950-10-20,75
+993,Laia,López,Espanya,Barcelona,8,3,1970,Dona,1380.75,No,1.0,Grup A,Laia López,Si,1970-03-08,55
+996,Joan,García,Espanya,Sevilla,11,4,1959,Home,1019.5500000000001,No,1.0,Grup A,Joan García,Si,1959-04-11,66
+997,Laia,Ferrer Martínez,Espanya,Barcelona,11,11,1980,Dona,716.1,No,1.0,Grup A,Laia Ferrer Martínez,Si,1980-11-11,45
+999,Clara,Sánchez López,Espanya,Bilbao,1,8,1952,Dona,1277.8500000000001,No,1.0,Grup A,Clara Sánchez López,Si,1952-08-01,73
