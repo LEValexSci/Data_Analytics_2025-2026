@@ -17,10 +17,7 @@ CREATE TABLE drugs_es_raw (
 	"¿Problemas de suministro?" VARCHAR(20)
 );
 
-COPY drugs_es_raw 
-	FROM 'F:/_LearningMaterials/__--Portofolio--__/ITA_project/__esDrugs/Medicamentos.csv'
-	CSV HEADER DELIMITER ',';
-	/* copy drugs_es_raw FROM './raw_data/Medicamentos.csv' CSV HEADER DELIMITER ','; */
+COPY drugs_es_raw FROM './raw_data/Medicamentos.csv' CSV HEADER DELIMITER ',';
 
 SELECT * FROM drugs_es_raw LIMIT 5;
 SELECT COUNT(DISTINCT "Principios Activos") FROM drugs_es_raw;
@@ -246,7 +243,7 @@ ORDER BY "Principios Activos";
 
 
 /*#################################################*/
-/* use 'F:/_LearningMaterials/__--Portofolio--__/ITA_project/__esDrugs/medicamentos_full.csv' to include data about the coverage of the drug treatment by national insurance */
+/* use './medicamentos_full.csv' to include data about the coverage of the drug treatment by national insurance */
 -- Drop/create staging table 
 DROP TABLE IF EXISTS drug_seguro_raw CASCADE;
 CREATE TABLE drug_seguro_raw (
@@ -259,10 +256,7 @@ CREATE TABLE drug_seguro_raw (
 );
 
 -- Load CSV (adjust path/delimiter as needed)
-COPY drug_seguro_raw 
-FROM 'F:/_LearningMaterials/__--Portofolio--__/ITA_project/__esDrugs/medicamentos_full.csv'
-CSV HEADER DELIMITER ',';
-	/* copy drug_seguro_raw FROM './raw_data/medicamentos_full.csv' CSV HEADER DELIMITER ','; */
+COPY drug_seguro_raw FROM './raw_data/medicamentos_full.csv' CSV HEADER DELIMITER ',';
 
 SELECT COUNT(*) FROM drug_seguro_raw;
 SELECT * FROM drug_seguro_raw LIMIT 5;
@@ -401,47 +395,6 @@ GROUP BY 1,2
 ORDER BY 1 DESC 
 LIMIT 10;
 -- ##############################################################################################
-
-
--- Verify matches
--- Add to fact_medicamentos
-ALTER TABLE fact_medicamentos 
-ADD COLUMN financiacion_id INTEGER REFERENCES dim_financiacion(financiacion_id);
-
--- Populate best matches
-UPDATE fact_medicamentos fm
-SET financiacion_id = bfm.financiacion_id
-FROM bridge_financiacion_match bfm
-WHERE fm.nr_register = bfm.registry_id
-  AND bfm.match_confidence IN ('HIGH', 'MEDIUM');
-
-
--- Match quality report
-SELECT 
-    match_confidence,
-    COUNT(*) as matches,
-    ROUND(AVG(similarity_score), 3) as avg_score
-FROM bridge_financiacion_match 
-GROUP BY match_confidence 
-ORDER BY avg_score DESC;
-
--- Sample high-confidence matches
-SELECT 
-    bfm.codigo_nacional,
-    fm.nr_register,
-    r."Medicamento" as original_name,
-    mf.nombre_medicamento as full_name,
-    df.situacion,
-    bfm.similarity_score
-FROM bridge_financiacion_match bfm
-JOIN fact_medicamentos fm ON bfm.registry_id = fm.nr_register
-JOIN stg_medicamentos_full mf ON bfm.codigo_nacional = mf.codigo_nacional
-JOIN drugs_es_raw r ON fm.nr_register = r."Nº Registro"
-JOIN dim_financiacion df ON bfm.financiacion_id = df.financiacion_id
-WHERE bfm.match_confidence = 'HIGH'
-LIMIT 10;
-
--- Unmatched drugs (for manual review)
 SELECT DISTINCT mf.codigo_nacional, mf.nombre_medicamento
 FROM stg_medicamentos_full mf
 LEFT JOIN bridge_financiacion_match bfm ON mf.codigo_nacional = bfm.codigo_nacional
