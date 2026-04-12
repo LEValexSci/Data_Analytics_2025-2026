@@ -1,0 +1,17 @@
+Nr. d/o,Denumirea comună internațională (DCI),Doza,Forma farmaceutică,Rata de compensare din mediana prețurilor,"Suma fixă compensată per unitate de măsură (MDL), inclusiv TVA","Suma fixă compensată per unitate de măsură (MDL), fără TVA","Cod CIM 
+de diagnostic/limitare indicație",Durata tratamentului,Destinat
+1.0,ACECLOFENACUM,100 mg,"comprimate, comprimate filmate ",1,2.33,2.16,"M069-Artrita reumatoida, fara precizare
+M199-Artroza, fara precizare",cronic,adulți/copii
+,ACECLOFENACUM,100 mg,"comprimate, comprimate filmate",1,2.33,2.16,"M069-Artrita reumatoida, fara precizare
+M109-Guta, fara precizare",episodic,adulți
+2.0,ACENOCUMAROLUM ,2 mg,comprimate,1,0.79,0.73,"I209-Angina pectorala,fara alta precizare
+I219-Infarct miocardic acut,fara alte precizare
+I249-Cardiopatie ischemica acuta,fara alta specificare
+I252-Infarct miocardic vechi
+I259-Cardiopatie ischemica cronica,fara alta specificare",cronic,adulți/copii
+3.0,ACETYLCYSTEINUM,100 mg,pulbere pentru soluție orală,integral,-,-,"J40-Bronsita neprecizata ca acuta sau cronica
+J189-Pneumonie fara precizare
+",episodic,copii
+,ACETYLCYSTEINUM,200 mg,"pulbere pentru soluție orală, granule pentru soluţie orală",integral,-,-,"J40-Bronsita neprecizata ca acuta sau cronica
+J189-Pneumonie fara precizare
+",episodic,copii
