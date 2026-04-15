@@ -70,7 +70,7 @@ def check_drug(drug_name):
     if is_covered:
         return "✅ Equivalent treatment is available and covered by insurance"
     else:
-        return "⚠️ There is less probable available equivalent treatment. Please, consult your family doctor"
+        return "⚠️ A similar treatment might not be available right now. Your family doctor can help you choose the best alternative."
 
 
 # -----------------------------
