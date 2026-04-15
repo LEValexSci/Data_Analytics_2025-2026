@@ -28,9 +28,9 @@ supabase: Client = create_client(url, key)
 # -----------------------------
 # UI
 # -----------------------------
-st.set_page_config(page_title="Drug Coverage Checker", layout="centered")
+st.set_page_config(page_title="Drug Treatment Coverage Checker", layout="centered")
 
-st.title("💊 Drug Coverage Checker")
+st.title("💊 Drug Treatment Coverage Checker")
 st.markdown("Check if your treatment is available and covered in Spain 🇪🇸")
 
 drug_input = st.text_input("Enter drug name (DCI)", placeholder="e.g. Paracetamolum")
@@ -40,35 +40,66 @@ drug_input = st.text_input("Enter drug name (DCI)", placeholder="e.g. Paracetamo
 # -----------------------------
 def check_drug(drug_name):
     drug_name = drug_name.strip().lower()
+
+    # -----------------------------
     # 1. Search fuzzymatching
+    # -----------------------------
     response = supabase.table("fuzzymatching") \
         .select("*") \
         .ilike("dci_name_md", f"%{drug_name}%") \
         .execute()
-    
-    st.write(url)
 
     if not response.data:
         return "❌ Drug not found in matching database"
-    
-    match = response.data[0]
-    matched_es = match["matched_dci_es"]
-    atc_code = match["atc_code"]
-    
-    # 2. Search coverage
-    coverage = supabase.table("drug_coverage") \
-        .select("*") \
-        .eq("source", "es") \
-        .eq("dci_name", matched_es) \
-        .eq("atc_code", atc_code) \
-        .execute()
-    
-    if not coverage.data:
+
+    matches = response.data
+
+    # -----------------------------
+    # 2. Select best match (highest fuzzy_score)
+    # -----------------------------
+    # Filter out rows without fuzzy_score just in case
+    matches_with_score = [m for m in matches if m.get("fuzzy_score") is not None]
+
+    if matches_with_score:
+        best_match = max(matches_with_score, key=lambda x: x.get("fuzzy_score", 0))
+    else:
+        best_match = matches[0]  # fallback if no scores
+
+    matched_es = best_match.get("matched_dci_es")
+    atc_es = best_match.get("atc_es")
+    atc_md = best_match.get("atc_md")
+
+    # -----------------------------
+    # 3. Search coverage (PRIMARY: using matched_dci_es + atc_es)
+    # -----------------------------
+    coverage = None
+
+    if matched_es and atc_es:
+        coverage = supabase.table("drug_coverage") \
+            .select("*") \
+            .eq("source", "es") \
+            .eq("dci_name", matched_es) \
+            .eq("atc_code", atc_es) \
+            .execute()
+
+    # -----------------------------
+    # 4. Fallback: use atc_md if no ES match
+    # -----------------------------
+    if (not coverage or not coverage.data) and atc_md:
+        coverage = supabase.table("drug_coverage") \
+            .select("*") \
+            .eq("source", "es") \
+            .eq("atc_code", atc_md) \
+            .execute()
+
+    # -----------------------------
+    # 5. Evaluate result
+    # -----------------------------
+    if not coverage or not coverage.data:
         return "⚠️ No coverage information found"
-    
-    is_covered = coverage.data[0]["is_covered"]
-    
-    # 3. Output message
+
+    is_covered = coverage.data[0].get("is_covered")
+
     if is_covered:
         return "✅ Equivalent treatment is available and covered by insurance"
     else:
