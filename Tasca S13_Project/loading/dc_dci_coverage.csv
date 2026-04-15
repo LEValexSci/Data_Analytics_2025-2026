@@ -28,12 +28,11 @@ M109-Guta, fara precizare",Gedeon Richter PLC,Ungaria
 M199-Artroza, fara precizare","Kusum Healthcare Pvt.Ltd, India(PROD: Kusum Healthcare Pvt.Ltd, India; )",India
 819,ACECLOFENACUM,,ACECLOFENACUM,8191005,,Diclotol®,M01AB16,Full,pentru tratamentul episodic,"M069-Artrita reumatoida, fara precizare
 M109-Guta, fara precizare","Kusum Healthcare Pvt.Ltd, India(PROD: Kusum Healthcare Pvt.Ltd, India; )",India
-030,ACENOCOUMAROLUM,,,0301001,,Trombostop®,B01AA07,Partial,Pentru tratamentul maladiilor cardiovasculare,,"S.C.Terapia S.A., România(PROD: S.C.Terapia S.A., România; )",România
-,,,ACENOCUMAROLUM,,,,,,,"I209-Angina pectorala,fara alta precizare
+030,ACENOCOUMAROLUM,,ACENOCOUMAROLUM,0301001,,Trombostop®,B01AA07,Partial,Pentru tratamentul maladiilor cardiovasculare,"I209-Angina pectorala,fara alta precizare
 I219-Infarct miocardic acut,fara alte precizare
 I249-Cardiopatie ischemica acuta,fara alta specificare
 I252-Infarct miocardic vechi
-I259-Cardiopatie ischemica cronica,fara alta specificare",,
+I259-Cardiopatie ischemica cronica,fara alta specificare","S.C.Terapia S.A., România(PROD: S.C.Terapia S.A., România; )",România
 ,ACETYLCYSTEINUM,901,ACETYLCYSTEINUM,,9012003,Acetilcistein-BP,R05CB01,Full,pentru tratamentul episodic,"J40-Bronsita neprecizata ca acuta sau cronica
 J189-Pneumonie fara precizare","SC Balkan Pharmaceuticals SRL, Republica Moldova(PROD: SC Balkan Pharmaceuticals SRL, Republica Moldova; )",Republica Moldova
 ,ACETYLCYSTEINUM,901,ACETYLCYSTEINUM,,9012003,Acetilcistein-BP,R05CB01,Full,pentru tratamentul episodic,"J40-Bronsita neprecizata ca acuta sau cronica
@@ -1512,14 +1511,3 @@ J189-Pneumonie fara precizare","Zambon S.P.A., Italia(PROD: Zambon S.p.A., Itali
 022,WARFARINUM,,,0222001,,Warfarex®,B01AA03,Partial,Pentru tratamentul maladiilor cardiovasculare,,Grindeks SA,Letonia
 022,WARFARINUM,,,0222002,,Warfarin Orion,B01AA03,Partial,Pentru tratamentul maladiilor cardiovasculare,,"Orion Corporation (prod.: Orion Corporation, Orion Pharma, Finlanda)",Finlanda
 022,WARFARINUM,,,0222002,,Warfarin Orion,B01AA03,Partial,Pentru tratamentul maladiilor cardiovasculare,,"Orion Corporation (prod.: Orion Corporation, Orion Pharma, Finlanda)",Finlanda
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,
-,,,,,,,,Full,,,,

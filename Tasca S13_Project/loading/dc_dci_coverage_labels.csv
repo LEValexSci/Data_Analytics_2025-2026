@@ -1163,7 +1163,11 @@ J189-Pneumonie fara precizare","S.C. Rompharm Company S.R.L., România(PROD: S.C
 J189-Pneumonie fara precizare","S.C. Rompharm Company S.R.L., România(PROD: S.C. Rompharm Company S.R.L., România; )",Rompharm,România
 808,AZITHROMYCINUM,229,,8085003,2295003,Azitromicină Rompharm,J01FA10,Full,pentru tratamentul episodic,,"S.C. Rompharm Company S.R.L., România(PROD: S.C. Rompharm Company S.R.L., România; )",Rompharm,România
 392,TRAVOPROSTUM,,,3921002,,Travapress,S01EE04,Full,Pentru tratamentul maladiilor oftalmologice,,"S.C. Rompharm Company S.R.L., România(PROD: S.C. Rompharm Company S.R.L., România; )",Rompharm,România
-30,ACENOCOUMAROLUM,,,301001,,Trombostop®,B01AA07,Partial,Pentru tratamentul maladiilor cardiovasculare,,"S.C.Terapia S.A., România(PROD: S.C.Terapia S.A., România; )",Terapia,România
+30,ACENOCOUMAROLUM,,ACENOCOUMAROLUM,301001,,Trombostop®,B01AA07,Partial,Pentru tratamentul maladiilor cardiovasculare,"I209-Angina pectorala,fara alta precizare
+I219-Infarct miocardic acut,fara alte precizare
+I249-Cardiopatie ischemica acuta,fara alta specificare
+I252-Infarct miocardic vechi
+I259-Cardiopatie ischemica cronica,fara alta specificare","S.C.Terapia S.A., România(PROD: S.C.Terapia S.A., România; )",Terapia,România
 17,BISOPROLOLUM,,,171024,,Bisoprolol-ACOS,C07AB07,Partial,Pentru tratamentul maladiilor cardiovasculare,,"SA Biokom, Rusia(PROD: SA Biokom, Rusia; )",Biokom,Rusia
 17,BISOPROLOLUM,,,172024,,Bisoprolol-ACOS,C07AB07,Partial,Pentru tratamentul maladiilor cardiovasculare,,"SA Biokom, Rusia(PROD: SA Biokom, Rusia; )",Biokom,Rusia
 39,LOSARTANUM,,,391012,,Losartan-ACOS,C09CA01,Partial,Pentru tratamentul maladiilor cardiovasculare,,"SA Biokom, Rusia(PROD: SA Biokom, Rusia; )",Biokom,Rusia
@@ -1507,19 +1511,3 @@ J189-Pneumonie fara precizare","Zentiva k.s., Republica Cehă(PROD: E-Pharma Tre
 817,CEFUROXIMUM,225,,8175009,2255009,Cefuroxim,J01DC02,Full,pentru tratamentul episodic,,"Zhuhai United Laboratories (Zhongshan) Co. Ltd, China(PROD: Zhuhai United Laboratories (Zhongshan) Co. Ltd, China; )",Zhuhai United Laboratories,China
 817,CEFUROXIMUM,225,,8176002,2256002,Cefuroxim,J01DC02,Full,pentru tratamentul episodic,,"Zhuhai United Laboratories (Zhongshan) Co. Ltd, China(PROD: Zhuhai United Laboratories (Zhongshan) Co. Ltd, China; )",Zhuhai United Laboratories,China
 ,ALBENDAZOLUM,226,,,2263007,Alziben 400,P02CA03,Full,pentru tratamentul episodic,,"Zim Laboratories Limited, India(PROD: Zim Laboratories Limited, India; )",Zim Laboratories,India
-,,,ACENOCUMAROLUM,,,,,,,"I209-Angina pectorala,fara alta precizare
-I219-Infarct miocardic acut,fara alte precizare
-I249-Cardiopatie ischemica acuta,fara alta specificare
-I252-Infarct miocardic vechi
-I259-Cardiopatie ischemica cronica,fara alta specificare",,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
-,,,,,,,,Full,,,,,
