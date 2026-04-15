@@ -105,7 +105,7 @@ def check_drug(drug_name, age=None, country=None, gender=None):
     if is_covered:
         result_message = "✅ Equivalent treatment is available and covered by insurance"
     else:
-        result_message = "⚠️ A similar treatment might not be available right now."
+        result_message = "⚠️ A similar treatment might not be available right now. Consult your family doctor."
 
     # 🔥 LOG EVERYTHING
     log_search(drug_name, matched_es, atc_es or atc_md, is_covered, result_message, age, country, gender)
