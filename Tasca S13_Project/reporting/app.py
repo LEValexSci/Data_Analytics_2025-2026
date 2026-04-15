@@ -1,5 +1,7 @@
 import streamlit as st
 from supabase import create_client, Client
+import os
+from dotenv import load_dotenv
 
 st.markdown("""
     <style>
@@ -16,10 +18,12 @@ st.markdown("""
 # -----------------------------
 # CONFIG
 # -----------------------------
-SUPABASE_URL = "YOUR_URL"
-SUPABASE_KEY = "YOUR_KEY"
+load_dotenv()
 
-supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+url = os.getenv("SUPABASE_URL")
+key = os.getenv("SUPABASE_KEY")
+
+supabase: Client = create_client(url, key)
 
 # -----------------------------
 # UI
