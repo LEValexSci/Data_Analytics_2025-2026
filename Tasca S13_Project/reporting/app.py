@@ -42,7 +42,7 @@ gender = st.number_input("Your sex by birth", placeholder="e.g. Woman")
 # -----------------------------
 # LOG SEARCH
 # -----------------------------
-def log_search(query, matched_es, atc_code, is_covered, result, age, country):
+def log_search(query, matched_es, atc_code, is_covered, result, age, country, gender):
     supabase.table("search_logs").insert({
         "query": query,
         "matched_dci_es": matched_es,
@@ -50,7 +50,8 @@ def log_search(query, matched_es, atc_code, is_covered, result, age, country):
         "is_covered": is_covered,
         "result_message": result,
         "user_age": age,
-        "user_country": country
+        "user_country": country,
+        "user_gender": gender
     }).execute()
 # -----------------------------
 # LOGIC
@@ -66,7 +67,7 @@ def check_drug(drug_name, age=None, country=None, gender=None):
     if not response.data:
         result_message = "❌ Drug not found in matching database"
 
-        log_search(drug_name, None, None, None, result_message, age, country)
+        log_search(drug_name, None, None, None, result_message, age, country, gender)
         return result_message
 
     matches = response.data
@@ -96,7 +97,7 @@ def check_drug(drug_name, age=None, country=None, gender=None):
 
     if not coverage or not coverage.data:
         result_message = "⚠️ No coverage information found"
-        log_search(drug_name, matched_es, atc_es or atc_md, None, result_message, age, country)
+        log_search(drug_name, matched_es, atc_es or atc_md, None, result_message, age, country, gender)
         return result_message
 
     is_covered = coverage.data[0].get("is_covered")
@@ -107,7 +108,7 @@ def check_drug(drug_name, age=None, country=None, gender=None):
         result_message = "⚠️ A similar treatment might not be available right now."
 
     # 🔥 LOG EVERYTHING
-    log_search(drug_name, matched_es, atc_es or atc_md, is_covered, result_message, age, country)
+    log_search(drug_name, matched_es, atc_es or atc_md, is_covered, result_message, age, country, gender)
 
     return result_message
 
@@ -117,7 +118,7 @@ def check_drug(drug_name, age=None, country=None, gender=None):
 # -----------------------------
 if st.button("Check availability"):
     if drug_input:
-        result = check_drug(drug_input, age, country)
+        result = check_drug(drug_input, age, country, gender)
         st.success(result)
     else:
         st.warning("Please enter a drug name")
