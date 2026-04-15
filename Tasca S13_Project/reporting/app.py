@@ -41,12 +41,12 @@ drug_input = st.text_input("Enter drug name (DCI)", placeholder="e.g. Paracetamo
 def check_drug(drug_name):
     drug_name = drug_name.strip().lower()
     # 1. Search fuzzymatching
-    # response = supabase.table("fuzzymatching") \
-    #     .select("*") \
-    #     .ilike("dci_name_md", f"%{drug_name}%") \
-    #     .execute()
-    response = supabase.table("fuzzymatching").select("*").limit(10).execute()
-    st.write(response.data)
+    response = supabase.table("fuzzymatching") \
+        .select("*") \
+        .ilike("dci_name_md", f"%{drug_name}%") \
+        .execute()
+    
+    st.write(url)
 
     if not response.data:
         return "❌ Drug not found in matching database"
