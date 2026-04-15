@@ -36,8 +36,8 @@ st.markdown("Check if your treatment is available and covered in Spain 🇪🇸"
 
 drug_input = st.text_input("Enter drug name (DCI)", placeholder="e.g. Paracetamolum")
 age = st.number_input("Your age", min_value=0, max_value=120)
-country = st.text_input("Country of origin or Ethnicity", value="Spain")
-gender = st.number_input("Your sex by birth", min_value=0, max_value=120)
+country = st.text_input("Country of origin or Ethnicity", placeholder="e.g. Spain")
+gender = st.number_input("Your sex by birth", placeholder="e.g. Woman")
 
 # -----------------------------
 # LOG SEARCH
