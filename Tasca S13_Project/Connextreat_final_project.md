@@ -192,5 +192,7 @@ There are four scenarios implemented:
 * "✅ Equivalent treatment is available and covered by insurance" - the drug was identified in the Spanish dataset, and confirmation of the coverage by the national health insurance is available.
 * "⚠️ A similar treatment might not be available right now. Consult your family doctor." - the drug was identified in the Spanish dataset, and confirmation of lack of coverage by the national health insurance is available.
 
-<img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_search.PNG" alt="ConnexTreat search" width="50%">
-<img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG" alt="ConnexTreat result" width="50%">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_search.PNG" width="49%" />
+  <img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG" width="49%" />
+</div>
