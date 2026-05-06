@@ -3,16 +3,16 @@
   <tr>
     <!-- Presenter Column -->
     <td style="text-align: center; padding: 24px; vertical-align: top;">
-      <p style="font-size: 18px; margin: 0;"><strong>Presenter:</strong> Name Name</p>
+      <p style="font-size: 18px; margin: 0;"><strong>Presenter:</strong> Alexei Levițchi</p>
       <p style="font-size: 18px; margin: 0;">PhD, data analyst</p>
     </td>
     <!-- Mentor Column -->
     <td style="text-align: center; padding: 24px; vertical-align: top;">
-      <p style="font-size: 18px; margin: 0;"><strong>Mentor:</strong> Name Name</p>
-      <p style="font-size: 15px; color: gray; margin-top: 6px;">16 April 2026 · Barcelona</p>
+      <p style="font-size: 18px; margin: 0;"><strong>Mentor:</strong> Joan Gasull </p>  
     </td>
   </tr>
 </table>  
+<p style="font-size: 15px; color: gray; margin-top: 6px;">16 April 2026 · Barcelona</p>
 
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/Connextreat_problem_definition_small.png "Connextreat Logo")
 
