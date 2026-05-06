@@ -78,7 +78,8 @@ All records were cleaned for possible leading and trailing blank spaces, and wor
 Two mapping dictionaries were applied:
 * to convert between different writings of 'yes'/'no' to Boolean True/False correspondingly,
 * to convert various notations of compensation availability to Boolean True/False.
-Further, the tables were merged for each Country source. It was necessary to analyse the content in various columns to match the values. Several guiding columns were selected because no unique identifier was clearly determined from the extracted data. So, it was decided to refuse the implementation of the normalisation step at this stage.
+
+<p>Further, the tables were merged for each Country source. It was necessary to analyse the content in various columns to match the values. Several guiding columns were selected because no unique identifier was clearly determined from the extracted data. So, it was decided to refuse the implementation of the normalisation step at this stage.</p>
 
 #### Data Loading
 Only fields relevant for drug names matching and information regarding coverage were used at this step.
