@@ -183,6 +183,7 @@ At this stage, the interface represents a simple combination of 4 fields to be f
 - Your age
 - Country of origin or Ethnicity
 - Your sex by birth
+
 There are four scenarios implemented:
 * "❌ Drug not found in matching database" - no drug name was found in the Spanish dataset.
 * "⚠️ No coverage information found" - the drug was identified in the Spanish dataset, but it is not clear if it is covered or not by the national health insurance.
