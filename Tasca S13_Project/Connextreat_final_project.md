@@ -76,8 +76,8 @@ At this stage, it was necessary to clean column names of leading and trailing bl
 #### Data Transformation
 All records were cleaned for possible leading and trailing blank spaces, and work out empty records.
 Two mapping dictionaries were applied:
-    * to convert between different writings of 'yes'/'no' to Boolean True/False correspondingly,
-    * to convert various notations of compensation availability to Boolean True/False.
+* to convert between different writings of 'yes'/'no' to Boolean True/False correspondingly,
+* to convert various notations of compensation availability to Boolean True/False.
 Further, the tables were merged for each Country source. It was necessary to analyse the content in various columns to match the values. Several guiding columns were selected because no unique identifier was clearly determined from the extracted data. So, it was decided to refuse the implementation of the normalisation step at this stage.
 
 #### Data Loading
@@ -187,7 +187,7 @@ At this stage, the interface represents a simple combination of 4 fields to be f
 - Your age
 - Country of origin or Ethnicity
 - Your sex by birth
-- 
+ 
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_interface.PNG "ConnexTreat interface")
 
 There are four scenarios implemented:
