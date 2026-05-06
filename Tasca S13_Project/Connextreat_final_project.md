@@ -196,3 +196,10 @@ There are four scenarios implemented:
   <img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_search.PNG" width="49%">
   <img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG" width="49%">
 </div>
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_search.PNG" width="100%"></td>
+    <td valign="top"><img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG" width="100%"></td>
+  </tr>
+</table>
