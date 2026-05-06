@@ -1,7 +1,7 @@
+<h1 style="margin-bottom: 8px;">Connextreat - Connecting treatment across EU</h1>
 <table style="width: 100%; border-bottom: 3px solid #1f77b4; font-family: 'Courier New'; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; padding: 24px;">
-      <h1 style="margin-bottom: 8px;">Connextreat - Connecting treatment across EU</h1>
       <p style="font-size: 18px; margin: 0;"><strong>Presenter:</strong> Name Name</p>
       <p style="font-size: 18px; margin: 0;">PhD, data analyst</p>
     </td>
