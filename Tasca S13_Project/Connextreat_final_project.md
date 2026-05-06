@@ -199,3 +199,9 @@ There are four scenarios implemented:
     <td style="border: none;" valign="top"><img src="https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG" width="100%"></td>
   </tr>
 </table>
+
+__Drug Treatment Coverage Checker__ uses two tables stored on Supabase to perform matching anc checking treatment availability
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/supabase_connextreat.PNG "ConnexTreat Supabase")
+
+The service is collecting a log of users' search and stores it for further analysis for the purpose of user experience and demands determination, as well as users' stratification parameters.
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/supabase_connextreat_log.PNG "ConnexTreat log")
