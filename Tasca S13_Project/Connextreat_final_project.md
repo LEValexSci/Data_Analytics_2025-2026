@@ -1,12 +1,20 @@
-<div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">
-    <h1 style="margin-bottom:8px;">Connextreat - Connecting treatment across EU</h1>
-    <p style="font-size:18px; margin:0;"><strong>Presenter:</strong> Alexei Levițchi</p>
-    <p style="font-size:18px; margin:0;">PhD Genetics, data analyst</p>
-</div>
-<div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">    
-    <p style="font-size:18px; margin:0;"><strong>Mentor:</strong> Joan Gasull Jolis</p>
-    <p style="font-size:15px; color:gray; margin-top:6px;">16 April 2026 · Barcelona</p>
-</div>
+<table style="width: 100%; border-bottom: 3px solid #1f77b4; font-family: 'Courier New'; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 24px;">
+      <h1 style="margin-bottom: 8px;">Connextreat - Connecting treatment across EU</h1>
+      <p style="font-size: 18px; margin: 0;"><strong>Presenter:</strong> Name Name</p>
+      <p style="font-size: 18px; margin: 0;">PhD, data analyst</p>
+    </td>
+  </tr>
+</table>
+<table style="width: 100%; border-bottom: 3px solid #1f77b4; font-family: 'Courier New'; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 24px;">
+      <p style="font-size: 18px; margin: 0;"><strong>Mentor:</strong> Name Name</p>
+      <p style="font-size: 15px; color: gray; margin-top: 6px;">16 April 2026 · Barcelona</p>
+    </td>
+  </tr>
+</table>   
 
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/Connextreat_problem_definition_small.png "Connextreat Logo")
 
@@ -165,7 +173,7 @@ Next, the top 10 countries of drug manufacturers providing their products in Mol
 Two countries, Germany and Slovenia, sell drugs covered by national insurance in both Moldova and Spain. 
 
 At the same time, each country has a very different level of drug production.
-![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/reporting/shared_drugs.png =75%x "Country drug production")
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/reporting/shared_drugs.png "Country drug production")
 
 Clustering analysis of the ATC codes (level 1) defining major health conditions in Spanish dataset revelead the majority of these drugs were from "Nervous system" group (5518 units), "Cardiovascular" group (3287 units) and a mixt group of "Antiinfectives", "Alimentary tract", "Blood" and "Antineoplastic" entities (1927, 1908, 1895, and 1695 units, correspondingly).
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/reporting/atc_l1_country_heatmaps/es_atc_l1_clustered_heatmap.png "Number of drugs by Health condition ES")
