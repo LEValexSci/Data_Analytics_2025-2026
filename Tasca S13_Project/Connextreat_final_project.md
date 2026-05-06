@@ -1,10 +1,10 @@
 <h1 style="margin-bottom:8px;">Connextreat - Connecting treatment across EU</h1>
 <div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">
-    <p style="font-size:18px; margin:0;"><strong>Presenter:</strong> Alexei Levițchi</p>
+    <p style="font-size:18px; margin:0;"><strong>Presenter:</strong> <i>Alexei Levițchi</i></p>
     <p style="font-size:18px; margin:0;">PhD Genetics, data analyst</p>
 </div>
 <div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">    
-    <p style="font-size:18px; margin:0;"><strong>Mentor:</strong> Joan Gasull Jolis</p>
+    <p style="font-size:18px; margin:0;"><strong>Mentor:</strong> <i>Joan Gasull Jolis</i></p>
     <p> </p>
 </div>
 
