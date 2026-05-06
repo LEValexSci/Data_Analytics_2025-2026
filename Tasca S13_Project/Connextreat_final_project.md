@@ -6,8 +6,7 @@
       <p style="font-size: 18px; margin: 0;">PhD, data analyst</p>
     </td>
   </tr>
-</table>
-<table style="width: 100%; border-bottom: 3px solid #1f77b4; font-family: 'Courier New'; border-collapse: collapse;">
+
   <tr>
     <td style="text-align: center; padding: 24px;">
       <p style="font-size: 18px; margin: 0;"><strong>Mentor:</strong> Name Name</p>
