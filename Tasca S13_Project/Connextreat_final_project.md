@@ -184,7 +184,7 @@ At this stage, the interface represents a simple combination of 4 fields to be f
 - Country of origin or Ethnicity
 - Your sex by birth
 - 
-![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_interface.png "ConnexTreat interface")
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_interface.PNG "ConnexTreat interface")
 
 There are four scenarios implemented:
 * "❌ Drug not found in matching database" - no drug name was found in the Spanish dataset.
@@ -192,6 +192,6 @@ There are four scenarios implemented:
 * "✅ Equivalent treatment is available and covered by insurance" - the drug was identified in the Spanish dataset, and confirmation of the coverage by the national health insurance is available.
 * "⚠️ A similar treatment might not be available right now. Consult your family doctor." - the drug was identified in the Spanish dataset, and confirmation of lack of coverage by the national health insurance is available.
 
-![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_search.png "ConnexTreat search")
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_search.PNG "ConnexTreat search")
 
-![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_result.PNG "ConnexTreat result")
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/be8ed68a02c972158acd0bc535504952366946e0/Tasca%20S13_Project/connextreat_result.PNG "ConnexTreat result")
