@@ -1,18 +1,16 @@
-<h1 style="margin-bottom: 8px;">Connextreat - Connecting treatment across EU</h1>
-<table style="width: 100%; border-bottom: 3px solid #1f77b4; font-family: 'Courier New'; border-collapse: collapse;">
-  <tr>
-    <!-- Presenter Column -->
-    <td style="text-align: center; padding: 24px; vertical-align: top;">
-      <p style="font-size: 18px; margin: 0;"><strong>Presenter:</strong> Alexei Levițchi</p>
-      <p style="font-size: 18px; margin: 0;">PhD, data analyst</p>
-    </td>
-    <!-- Mentor Column -->
-    <td style="text-align: center; padding: 24px; vertical-align: top;">
-      <p style="font-size: 18px; margin: 0;"><strong>Mentor:</strong> Joan Gasull </p>  
-    </td>
-  </tr>
-</table>  
-<p style="font-size: 15px; color: gray; margin-top: 6px;">16 April 2026 · Barcelona</p>
+<h1 style="margin-bottom:8px;">Connextreat - Connecting treatment across EU</h1>
+<div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">
+    <p style="font-size:18px; margin:0;"><strong>Presenter:</strong> Alexei Levițchi</p>
+    <p style="font-size:18px; margin:0;">PhD Genetics, data analyst</p>
+</div>
+<div style="text-align:center; padding:24px; border-bottom:3px solid #1f77b4; font-family: 'Courier New'">    
+    <p style="font-size:18px; margin:0;"><strong>Mentor:</strong> Joan Gasull Jolis</p>
+    <p> </p>
+</div>
+
+<div>
+    <p style="font-size:15px; color:gray; margin-top:6px;">16 April 2026 · Barcelona</p>
+</div>
 
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/Connextreat_problem_definition_small.png "Connextreat Logo")
 
