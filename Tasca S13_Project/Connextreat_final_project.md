@@ -194,4 +194,4 @@ There are four scenarios implemented:
 
 ![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_search.png "ConnexTreat search")
 
-![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_result.png "ConnexTreat result")
+![alt text](https://github.com/LEValexSci/Data_Analytics_2025-2026/blob/c92f745a0f533e42e7c89df15a494937e148d36f/Tasca%20S13_Project/connextreat_result.PNG "ConnexTreat result")
